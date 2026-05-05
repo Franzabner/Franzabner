@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500">
+  <rect width="1200" height="500" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="36" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="20" font-weight="700" fill="#C9A84C">Field to Architect: Career Arc</text>
+
+  <!-- Arc path (gentle upward curve left to right) -->
+  <path d="M 120,300 C 300,290 440,260 560,230 C 680,200 800,150 920,110 L 1060,80"
+        fill="none" stroke="#C9A84C" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Stage 1: HELPER -->
+  <circle cx="120" cy="300" r="12" fill="#1A1A1A" stroke="#C9A84C" stroke-width="2"/>
+  <text x="120" y="336" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="13" font-weight="700" fill="#C9A84C">HELPER</text>
+  <text x="120" y="356" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#E5E5E5">2014</text>
+
+  <!-- Stage 2: JOURNEYMAN -->
+  <circle cx="310" cy="275" r="12" fill="#1A1A1A" stroke="#C9A84C" stroke-width="2"/>
+  <text x="310" y="311" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="13" font-weight="700" fill="#C9A84C">JOURNEYMAN</text>
+  <text x="310" y="331" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#E5E5E5">2015-2017</text>
+
+  <!-- Stage 3: I&C TECH -->
+  <circle cx="510" cy="240" r="12" fill="#1A1A1A" stroke="#C9A84C" stroke-width="2"/>
+  <text x="510" y="276" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="13" font-weight="700" fill="#C9A84C">I&amp;C TECH</text>
+  <text x="510" y="296" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#E5E5E5">2020-2021</text>
+
+  <!-- Stage 4: FOREMAN -->
+  <circle cx="700" cy="185" r="12" fill="#1A1A1A" stroke="#C9A84C" stroke-width="2"/>
+  <text x="700" y="221" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="13" font-weight="700" fill="#C9A84C">FOREMAN</text>
+  <text x="700" y="241" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#E5E5E5">2022-2024</text>
+
+  <!-- Stage 5: ARCHITECT -->
+  <circle cx="890" cy="120" r="12" fill="#1A1A1A" stroke="#C9A84C" stroke-width="2"/>
+  <text x="890" y="156" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="13" font-weight="700" fill="#C9A84C">ARCHITECT</text>
+  <text x="890" y="176" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#E5E5E5">2025</text>
+
+  <!-- Stage 6: CEO (active/current - green glow) -->
+  <circle cx="1060" cy="80" r="18" fill="#2ECC71" opacity="0.15"/>
+  <circle cx="1060" cy="80" r="14" fill="#2ECC71" opacity="0.25"/>
+  <circle cx="1060" cy="80" r="12" fill="#1A1A1A" stroke="#2ECC71" stroke-width="2"/>
+  <text x="1060" y="116" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="13" font-weight="700" fill="#2ECC71">CEO</text>
+  <text x="1060" y="136" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#E5E5E5">2025-now</text>
+
+  <!-- Company context labels -->
+  <line x1="60" y1="400" x2="1140" y2="400" stroke="#C9A84C" stroke-width="1" opacity="0.2"/>
+  <text x="600" y="392" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#C9A84C" opacity="0.6">EMPLOYERS AND VENTURES</text>
+
+  <!-- Under HELPER / JOURNEYMAN -->
+  <text x="215" y="424" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#E5E5E5">Fluor, McDermott, SST, MMR</text>
+
+  <!-- Under I&C TECH -->
+  <text x="510" y="424" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#E5E5E5">Tesla Gigafactory</text>
+
+  <!-- Under FOREMAN -->
+  <text x="700" y="424" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#E5E5E5">Meta NightCrawler</text>
+
+  <!-- Under ARCHITECT / CEO -->
+  <text x="975" y="424" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#E5E5E5">YOSO-YAi LLC</text>
+
+  <!-- Connecting dashes from company labels to arc nodes -->
+  <line x1="215" y1="370" x2="120" y2="312" stroke="#E5E5E5" stroke-width="1" stroke-dasharray="3,3" opacity="0.3"/>
+  <line x1="215" y1="370" x2="310" y2="287" stroke="#E5E5E5" stroke-width="1" stroke-dasharray="3,3" opacity="0.3"/>
+  <line x1="510" y1="410" x2="510" y2="252" stroke="#E5E5E5" stroke-width="1" stroke-dasharray="3,3" opacity="0.3"/>
+  <line x1="700" y1="410" x2="700" y2="197" stroke="#E5E5E5" stroke-width="1" stroke-dasharray="3,3" opacity="0.3"/>
+  <line x1="975" y1="410" x2="890" y2="132" stroke="#E5E5E5" stroke-width="1" stroke-dasharray="3,3" opacity="0.3"/>
+  <line x1="975" y1="410" x2="1060" y2="92" stroke="#E5E5E5" stroke-width="1" stroke-dasharray="3,3" opacity="0.3"/>
+
+  <!-- Footer -->
+  <text x="600" y="470" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#E5E5E5" opacity="0.7">From pulling wire to building living infrastructure.</text>
+</svg>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="YOSO-YAi" width="200" />
+<img src="assets/logo-personal.png" alt="Franzabner | Mechanical. Electrical. Controls." width="180" />
 
 # Francisco Abner Rivera
 
@@ -37,29 +37,6 @@ Every repo demonstrates a piece of the same discipline applied at a different sc
 
 The portfolio is the proof. Not a slide deck. Not a pitch. The work shows itself.
 
----
-
-## What I am building
-
-- Smart AI infrastructure and smart AI power infrastructure (YOSO-YAi LLC)
-- Field-grade electrical and commissioning craft, documented as portfolio-grade reference
-- Custom PCBs that run the firm's AI fleet (RIB, breadboard, epi-meter)
-- The 12U rack where physical and digital infrastructure converge
-- The career arc from helper to architect, rendered as a discipline
-- Civic engineering for Puerto Rico through the 218 Network Foundation
-
----
-
-## The Architectural DNA
-
-<div align="center">
-  <img src="diagrams/four-surfaces.svg" alt="Four Surfaces" width="900" />
-</div>
-
-Every YOSO-YAi product is a living mind first, its specialization second. Four surfaces compose the DNA: Brain (accumulated knowledge), Experiences (immutable history), Nerves (automated workflows), Chat (conversations the work creates). The 12U rack in the studio ships this pattern end to end. Every product the company designs inherits it.
-
----
-
 | Repo | Domain | What it demonstrates |
 |---|---|---|
 | [electrical-panel-dressing](https://github.com/Franzabner/electrical-panel-dressing) | Field craft | The craft that makes infrastructure live |
@@ -86,6 +63,27 @@ Every YOSO-YAi product is a living mind first, its specialization second. Four s
 | [218-civic-engineering](https://github.com/Franzabner/218-civic-engineering) | Foundation | Civic engineering methodology, NEURONAs, closed-loop supply chain |
 | [originator-public-tour](https://github.com/Franzabner/originator-public-tour) | Foundation | Public-safe walkthrough of The Originator |
 | [yai-specialist-recipes](https://github.com/Franzabner/yai-specialist-recipes) | Foundation | Methodology behind forging a YAi specialist |
+
+---
+
+## What I am building
+
+- Smart AI infrastructure and smart AI power infrastructure (YOSO-YAi LLC)
+- Field-grade electrical and commissioning craft, documented as portfolio-grade reference
+- Custom PCBs that run the firm's AI fleet (RIB, breadboard, epi-meter)
+- The 12U rack where physical and digital infrastructure converge
+- The career arc from helper to architect, rendered as a discipline
+- Civic engineering for Puerto Rico through the 218 Network Foundation
+
+---
+
+## The Architectural DNA
+
+<div align="center">
+  <img src="diagrams/four-surfaces.svg" alt="Four Surfaces" width="900" />
+</div>
+
+Every YOSO-YAi product is a living mind first, its specialization second. Four surfaces compose the DNA: Brain (accumulated knowledge), Experiences (immutable history), Nerves (automated workflows), Chat (conversations the work creates). The 12U rack in the studio ships this pattern end to end. Every product the company designs inherits it.
 
 ---
 
@@ -149,3 +147,11 @@ YOSO-YAi is an infrastructure-tech company. We design, research, develop, and in
 ## License
 
 MIT License. Copyright 2026 Francisco Abner Rivera, YOSO-YAi LLC. See [LICENSE](LICENSE).
+
+---
+
+<div align="center">
+
+<img src="assets/logo-company.png" alt="YOSO-YAi LLC" width="220" />
+
+</div>

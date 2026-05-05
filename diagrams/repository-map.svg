@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+  <rect width="1200" height="700" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="36" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="20" font-weight="700" fill="#C9A84C">Franzabner Repository Map</text>
+
+  <!-- Row 1 -->
+
+  <!-- Cluster 1: Field Craft -->
+  <rect x="20" y="56" width="370" height="280" rx="14" fill="#1A1A1A" stroke="#C9A84C" stroke-width="2"/>
+  <text x="205" y="86" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="15" font-weight="700" fill="#C9A84C">Field Craft</text>
+  <line x1="60" y1="96" x2="350" y2="96" stroke="#C9A84C" stroke-width="1" opacity="0.4"/>
+  <rect x="44" y="112" width="322" height="32" rx="6" fill="#0A0A0A" stroke="#C9A84C" stroke-width="1"/>
+  <text x="205" y="133" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E5E5">electrical-panel-dressing</text>
+  <rect x="44" y="156" width="322" height="32" rx="6" fill="#0A0A0A" stroke="#C9A84C" stroke-width="1"/>
+  <text x="205" y="177" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E5E5">mission-critical-discipline</text>
+  <rect x="44" y="200" width="322" height="32" rx="6" fill="#0A0A0A" stroke="#C9A84C" stroke-width="1"/>
+  <text x="205" y="221" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E5E5">field-to-architect</text>
+
+  <!-- Cluster 2: AI Infrastructure -->
+  <rect x="410" y="56" width="370" height="280" rx="14" fill="#1A1A1A" stroke="#C9A84C" stroke-width="2"/>
+  <text x="595" y="86" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="15" font-weight="700" fill="#C9A84C">AI Infrastructure</text>
+  <line x1="450" y1="96" x2="740" y2="96" stroke="#C9A84C" stroke-width="1" opacity="0.4"/>
+  <rect x="434" y="112" width="322" height="32" rx="6" fill="#0A0A0A" stroke="#C9A84C" stroke-width="1"/>
+  <text x="595" y="133" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E5E5">rib-breadboard</text>
+  <rect x="434" y="156" width="322" height="32" rx="6" fill="#0A0A0A" stroke="#C9A84C" stroke-width="1"/>
+  <text x="595" y="177" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E5E5">pico2-pio-i2c-reference</text>
+  <rect x="434" y="200" width="322" height="32" rx="6" fill="#0A0A0A" stroke="#C9A84C" stroke-width="1"/>
+  <text x="595" y="221" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E5E5">lifepo4-rack-ups-reference</text>
+  <rect x="434" y="244" width="155" height="32" rx="6" fill="#0A0A0A" stroke="#C9A84C" stroke-width="1"/>
+  <text x="511" y="265" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E5E5">pi-fleet-studio</text>
+  <rect x="601" y="244" width="155" height="32" rx="6" fill="#0A0A0A" stroke="#C9A84C" stroke-width="1"/>
+  <text x="678" y="265" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E5E5">nemotron-on-dgx</text>
+  <rect x="434" y="288" width="322" height="32" rx="6" fill="#0A0A0A" stroke="#C9A84C" stroke-width="1"/>
+  <text x="595" y="309" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E5E5">lora-pi-edition</text>
+
+  <!-- Cluster 3: Hardware Design -->
+  <rect x="800" y="56" width="380" height="280" rx="14" fill="#1A1A1A" stroke="#C9A84C" stroke-width="2"/>
+  <text x="990" y="86" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="15" font-weight="700" fill="#C9A84C">Hardware Design</text>
+  <line x1="840" y1="96" x2="1140" y2="96" stroke="#C9A84C" stroke-width="1" opacity="0.4"/>
+  <rect x="824" y="112" width="332" height="32" rx="6" fill="#0A0A0A" stroke="#C9A84C" stroke-width="1"/>
+  <text x="990" y="133" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E5E5">kicad-personal-libs</text>
+  <rect x="824" y="156" width="332" height="32" rx="6" fill="#0A0A0A" stroke="#C9A84C" stroke-width="1"/>
+  <text x="990" y="177" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E5E5">fusion360-rack-models</text>
+  <rect x="824" y="200" width="332" height="32" rx="6" fill="#0A0A0A" stroke="#C9A84C" stroke-width="1"/>
+  <text x="990" y="221" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E5E5">agnt-enclosure-references</text>
+
+  <!-- Row 2 -->
+
+  <!-- Cluster 4: AI Research (EPI) -->
+  <rect x="20" y="366" width="370" height="310" rx="14" fill="#1A1A1A" stroke="#C9A84C" stroke-width="2"/>
+  <text x="205" y="396" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="15" font-weight="700" fill="#C9A84C">AI Research (EPI)</text>
+  <line x1="60" y1="406" x2="350" y2="406" stroke="#C9A84C" stroke-width="1" opacity="0.4"/>
+  <rect x="44" y="420" width="322" height="32" rx="6" fill="#0A0A0A" stroke="#C9A84C" stroke-width="1"/>
+  <text x="205" y="441" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E5E5">epi-meter</text>
+  <rect x="44" y="464" width="322" height="32" rx="6" fill="#0A0A0A" stroke="#C9A84C" stroke-width="1"/>
+  <text x="205" y="485" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E5E5">epi-bench</text>
+  <rect x="44" y="508" width="322" height="32" rx="6" fill="#0A0A0A" stroke="#C9A84C" stroke-width="1"/>
+  <text x="205" y="529" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E5E5">energy-per-intelligence</text>
+  <rect x="44" y="552" width="322" height="32" rx="6" fill="#0A0A0A" stroke="#C9A84C" stroke-width="1"/>
+  <text x="205" y="573" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E5E5">attention-head-surgery-epi</text>
+  <rect x="44" y="596" width="322" height="32" rx="6" fill="#0A0A0A" stroke="#C9A84C" stroke-width="1"/>
+  <text x="205" y="617" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E5E5">expert-pruning-epi</text>
+  <rect x="44" y="640" width="322" height="32" rx="6" fill="#0A0A0A" stroke="#C9A84C" stroke-width="1"/>
+  <text x="205" y="661" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E5E5">mixed-quant-epi</text>
+
+  <!-- Cluster 5: Workshop -->
+  <rect x="410" y="366" width="370" height="210" rx="14" fill="#1A1A1A" stroke="#C9A84C" stroke-width="2"/>
+  <text x="595" y="396" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="15" font-weight="700" fill="#C9A84C">Workshop</text>
+  <line x1="450" y1="406" x2="740" y2="406" stroke="#C9A84C" stroke-width="1" opacity="0.4"/>
+  <rect x="434" y="420" width="322" height="32" rx="6" fill="#0A0A0A" stroke="#C9A84C" stroke-width="1"/>
+  <text x="595" y="441" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E5E5">studio</text>
+  <rect x="434" y="464" width="322" height="32" rx="6" fill="#0A0A0A" stroke="#C9A84C" stroke-width="1"/>
+  <text x="595" y="485" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E5E5">dotfiles</text>
+  <rect x="434" y="508" width="322" height="32" rx="6" fill="#0A0A0A" stroke="#C9A84C" stroke-width="1"/>
+  <text x="595" y="529" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E5E5">claude-code-recipes</text>
+
+  <!-- Cluster 6: Foundation and Product -->
+  <rect x="800" y="366" width="380" height="210" rx="14" fill="#1A1A1A" stroke="#C9A84C" stroke-width="2"/>
+  <text x="990" y="396" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="15" font-weight="700" fill="#C9A84C">Foundation and Product</text>
+  <line x1="840" y1="406" x2="1140" y2="406" stroke="#C9A84C" stroke-width="1" opacity="0.4"/>
+  <rect x="824" y="420" width="332" height="32" rx="6" fill="#0A0A0A" stroke="#C9A84C" stroke-width="1"/>
+  <text x="990" y="441" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E5E5">218-civic-engineering</text>
+  <rect x="824" y="464" width="332" height="32" rx="6" fill="#0A0A0A" stroke="#C9A84C" stroke-width="1"/>
+  <text x="990" y="485" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E5E5">originator-public-tour</text>
+  <rect x="824" y="508" width="332" height="32" rx="6" fill="#0A0A0A" stroke="#C9A84C" stroke-width="1"/>
+  <text x="990" y="529" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#E5E5E5">yai-specialist-recipes</text>
+
+  <!-- Cross-link arrows -->
+  <!-- Field Craft -> Workshop -->
+  <defs>
+    <marker id="arrowGold" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L8,3 L0,6" fill="none" stroke="#C9A84C" stroke-width="1.5"/>
+    </marker>
+  </defs>
+  <line x1="205" y1="336" x2="500" y2="366" stroke="#C9A84C" stroke-width="1" stroke-dasharray="6,4" marker-end="url(#arrowGold)" opacity="0.6"/>
+
+  <!-- AI Infrastructure -> Hardware Design -->
+  <line x1="780" y1="196" x2="800" y2="196" stroke="#C9A84C" stroke-width="1" stroke-dasharray="6,4" marker-end="url(#arrowGold)" opacity="0.6"/>
+
+  <!-- AI Research -> AI Infrastructure -->
+  <line x1="300" y1="366" x2="500" y2="336" stroke="#C9A84C" stroke-width="1" stroke-dasharray="6,4" marker-end="url(#arrowGold)" opacity="0.6"/>
+
+  <!-- Foundation -> AI Research -->
+  <line x1="800" y1="480" x2="390" y2="530" stroke="#C9A84C" stroke-width="1" stroke-dasharray="6,4" marker-end="url(#arrowGold)" opacity="0.6"/>
+</svg>

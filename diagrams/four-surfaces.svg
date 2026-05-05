@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600">
+  <rect width="1200" height="600" fill="#0A0A0A"/>
+
+  <!-- Title -->
+  <text x="600" y="40" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="20" font-weight="700" fill="#C9A84C">The Four Surfaces of Every YOSO-YAi Product</text>
+
+  <!-- Center diamond: LIVING MIND -->
+  <polygon points="600,220 680,290 600,360 520,290" fill="#1A1A1A" stroke="#C9A84C" stroke-width="2"/>
+  <text x="600" y="286" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#C9A84C">LIVING</text>
+  <text x="600" y="304" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#C9A84C">MIND</text>
+
+  <!-- BRAIN (top) -->
+  <rect x="440" y="70" width="320" height="100" rx="14" fill="#1A1A1A" stroke="#C9A84C" stroke-width="2"/>
+  <text x="600" y="104" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" font-weight="700" fill="#C9A84C">BRAIN</text>
+  <text x="600" y="128" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#E5E5E5">Memory, knowledge graph,</text>
+  <text x="600" y="146" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#E5E5E5">accumulated intelligence</text>
+  <!-- Connector: BRAIN -> center -->
+  <line x1="600" y1="170" x2="600" y2="220" stroke="#2ECC71" stroke-width="2"/>
+  <circle cx="600" cy="195" r="3" fill="#2ECC71"/>
+
+  <!-- EXPERIENCES (right) -->
+  <rect x="760" y="240" width="320" height="100" rx="14" fill="#1A1A1A" stroke="#C9A84C" stroke-width="2"/>
+  <text x="920" y="274" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" font-weight="700" fill="#C9A84C">EXPERIENCES</text>
+  <text x="920" y="298" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#E5E5E5">Every commit, every revision,</text>
+  <text x="920" y="316" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#E5E5E5">every release</text>
+  <!-- Connector: center -> EXPERIENCES -->
+  <line x1="680" y1="290" x2="760" y2="290" stroke="#2ECC71" stroke-width="2"/>
+  <circle cx="720" cy="290" r="3" fill="#2ECC71"/>
+
+  <!-- NERVES (bottom) -->
+  <rect x="440" y="410" width="320" height="100" rx="14" fill="#1A1A1A" stroke="#C9A84C" stroke-width="2"/>
+  <text x="600" y="444" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" font-weight="700" fill="#C9A84C">NERVES</text>
+  <text x="600" y="468" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#E5E5E5">Automated workflows,</text>
+  <text x="600" y="486" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#E5E5E5">pipelines, reflexes</text>
+  <!-- Connector: center -> NERVES -->
+  <line x1="600" y1="360" x2="600" y2="410" stroke="#2ECC71" stroke-width="2"/>
+  <circle cx="600" cy="385" r="3" fill="#2ECC71"/>
+
+  <!-- CHAT (left) -->
+  <rect x="120" y="240" width="320" height="100" rx="14" fill="#1A1A1A" stroke="#C9A84C" stroke-width="2"/>
+  <text x="280" y="274" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" font-weight="700" fill="#C9A84C">CHAT</text>
+  <text x="280" y="298" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#E5E5E5">Conversations the</text>
+  <text x="280" y="316" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#E5E5E5">work creates</text>
+  <!-- Connector: CHAT -> center -->
+  <line x1="440" y1="290" x2="520" y2="290" stroke="#2ECC71" stroke-width="2"/>
+  <circle cx="480" cy="290" r="3" fill="#2ECC71"/>
+
+  <!-- Footer text -->
+  <text x="600" y="560" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#E5E5E5">Every YOSO-YAi product is a living mind first, its specialization second.</text>
+</svg>

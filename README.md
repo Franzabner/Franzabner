@@ -1,76 +1,164 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="YOSO-YAi" width="200"/>
+<img src="assets/logo.png" alt="YOSO-YAi" width="160" />
 
-# Francisco Abner Rivera
+# Franzabner
 
-### CEO and Co-Founder, YOSO-YAi LLC | Co-Founder, 218 Network Foundation | Puerto Rico
+### Francisco Abner Rivera. Founder and CEO, YOSO-YAi LLC. Co-Founder, 218 Network Foundation. Puerto Rico.
 
-[![Website](https://img.shields.io/badge/yoso--yai.com-C9A84C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwQTBBMEEiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik0yIDEyaDIwIi8+PHBhdGggZD0iTTEyIDJhMTUuMyAxNS4zIDAgMCAxIDQgMTAgMTUuMyAxNS4zIDAgMCAxLTQgMTAgMTUuMyAxNS4zIDAgMCAxLTQtMTAgMTUuMyAxNS4zIDAgMCAxIDQtMTAiLz48L3N2Zz4=&logoColor=0A0A0A)](https://yoso-yai.com)
-[![YOSOR](https://img.shields.io/badge/yosor.app-C9A84C?style=for-the-badge&logoColor=0A0A0A)](https://yosor.app)
-[![218 Network](https://img.shields.io/badge/218.network-C9A84C?style=for-the-badge&logoColor=0A0A0A)](https://218.network)
-[![Location](https://img.shields.io/badge/Puerto_Rico-0A0A0A?style=for-the-badge&logo=googlemaps&logoColor=C9A84C)](https://github.com/Franzabner)
+**The architect at the center. The discipline that scales from wire to silicon.**
+
+![Status](https://img.shields.io/badge/Status-Active-C9A84C?style=for-the-badge&labelColor=0A0A0A)
+![Domain](https://img.shields.io/badge/Domain-Infrastructure_AI-C9A84C?style=for-the-badge&labelColor=0A0A0A)
+![License](https://img.shields.io/badge/License-MIT-C9A84C?style=for-the-badge&labelColor=0A0A0A)
 
 </div>
 
 ---
 
-I architect smart AI infrastructure and smart AI power infrastructure. 12+ years in the field: helper to journeyman to I&C tech to foreman to architect, across petrochemical, LNG, automotive manufacturing, and hyperscale data center construction. Founder of YOSO-YAi LLC ([yoso-yai.com](https://yoso-yai.com)), the infrastructure-tech company building The Originator, RIVR, and YOSOR. Co-Founder of the 218 Network Foundation ([218.network](https://218.network)) with Alexandra Caussade. The work shows itself.
+> Active portfolio. The work compounds. Every repo is a load-bearing artifact, not a placeholder.
+
+I architect smart AI infrastructure and smart AI power infrastructure. 12+ years in the field: helper to journeyman to I&C tech to foreman to architect, across petrochemical, LNG, automotive manufacturing, and hyperscale data center construction. The same discipline that produces a dressed panel produces a managed rack, a thermal control loop, a battery failover system. The physical and the digital are the same craft applied at different scales.
 
 ---
 
-## What I am building
+## The Portfolio
 
-**The Originator.** Smart AI modular data center, designed to outlive its silicon. The envelope outlives 3-4 silicon generations. The customer swaps compute inside the same shell as silicon evolves. Future-proof infrastructure, not throwaway builds.
+<div align="center">
+  <img src="diagrams/repository-map.svg" alt="Repository Map" width="1000" />
+</div>
 
-**RIVR.** River-current power R&D for fragile-grid territories. Puerto Rico has rivers. Puerto Rico has a grid problem. RIVR is the engineering answer.
+Every repo demonstrates a piece of the same discipline applied at a different scale. Field craft, AI infrastructure, hardware design, research, workshop reality. The through-line is craftsmanship: build it once, build it well, document it so the next person never has to guess.
 
-**YOSOR** ([yosor.app](https://yosor.app)). Super-app for the architect of the design, with the senior engineer in your lane. The architect dumps project files (KiCad, Fusion, Omniverse, Cursor, datasheets, firmware source), the senior engineer organizes, partners through every step, and pushes code to silicon when the architect is ready.
-
-**Donated to the 218 Network Foundation.** The foundation schools (engineered like The Originator, staffed by Foundation-hired teachers), the NEURONAs (self-powered civic mesh nodes manufactured from recycled water-body plastic), and the recycling automation line (the engineering bridge that makes the closed-loop civic supply chain viable).
-
----
-
-## How I work
-
-- **KiCad** for electrical, pin by pin
-- **Fusion 360** for mechanical 3D, bracket by bracket
-- **NVIDIA Omniverse** for spatial composition
-- **Claude Opus 4.6** through Claude Code as primary architectural lane
-- **Cursor** for code application
-- A YAi specialist fleet running on a Pi cluster under YOSOTRON's coordination
-- One 12U rack on the floor of my home runs the entire firm
+The portfolio is the proof. Not a slide deck. Not a pitch. The work shows itself.
 
 ---
 
-## Pinned repositories explained
+## What I Build
 
-**[rib-breadboard](https://github.com/Franzabner/rib-breadboard)** -- Exposed breadboard reference design for the Rack Intelligence Board. The RIB's development form, fully public.
-
-**[studio](https://github.com/Franzabner/studio)** -- Workshop reality from the 12U rack on the floor of my home. Build logs, decision journals, photo and video catalog.
-
-**[pi-fleet-studio](https://github.com/Franzabner/pi-fleet-studio)** -- Bootstrap a four-Pi YAi specialist fleet: Tailscale, Forgejo, Obsidian, n8n, LiteLLM proxy fronting NIM API.
-
-**[journeyman-notes](https://github.com/Franzabner/journeyman-notes)** -- Twelve years in the field across petrochemical, LNG, automotive manufacturing, and hyperscale data center.
-
-**[controls-track-pr](https://github.com/Franzabner/controls-track-pr)** -- The Puerto Rico controls career pathway. Helper to journeyman to I&C tech to controls architect. Bilingual.
-
-**[field-to-architect](https://github.com/Franzabner/field-to-architect)** -- Helper to top helper to journeyman to foreman to architect to CEO. The career arc made visible.
+- Smart AI infrastructure and smart AI power infrastructure (YOSO-YAi LLC)
+- Field-grade electrical and commissioning craft, documented as portfolio-grade reference
+- Custom PCBs that run the firm's AI fleet (RIB, breadboard, epi-meter)
+- The 12U rack where physical and digital infrastructure converge
+- The career arc from helper to architect, rendered as a discipline
+- Civic engineering for Puerto Rico through the 218 Network Foundation
 
 ---
 
-## Where to find the work
+## The Architectural DNA
+
+<div align="center">
+  <img src="diagrams/four-surfaces.svg" alt="Four Surfaces" width="900" />
+</div>
+
+Every YOSO-YAi product is a living mind first, its specialization second. Four surfaces compose the DNA: Brain (accumulated knowledge), Experiences (immutable history), Nerves (automated workflows), Chat (conversations the work creates). The 12U rack in the studio ships this pattern end to end. Every product the company designs inherits it.
+
+---
+
+## The Portfolio Map
+
+### Field Craft
+
+| Repo | What It Demonstrates |
+|---|---|
+| [electrical-panel-dressing](https://github.com/Franzabner/electrical-panel-dressing) | The craft that makes infrastructure live. Panel dressing, commissioning, as-built documentation. |
+| [mission-critical-discipline](https://github.com/Franzabner/mission-critical-discipline) | Mission critical electrical at hyperscale. What the industry gets wrong. |
+| [field-to-architect](https://github.com/Franzabner/field-to-architect) | The career arc made visible. Helper to CEO with dates and lessons. |
+
+### AI Infrastructure
+
+| Repo | What It Demonstrates |
+|---|---|
+| [rib-breadboard](https://github.com/Franzabner/rib-breadboard) | Exposed breadboard reference for the Rack Intelligence Board. Dual-processor trust boundary. |
+| [pico2-pio-i2c-reference](https://github.com/Franzabner/pico2-pio-i2c-reference) | PIO state machine I2C at 400kHz. Zero CPU overhead. The silicon moat. |
+| [lifepo4-rack-ups-reference](https://github.com/Franzabner/lifepo4-rack-ups-reference) | LiFePO4 battery management as rack UPS. Two-hour minimum runtime. |
+| [pi-fleet-studio](https://github.com/Franzabner/pi-fleet-studio) | Bootstrap a four-Pi YAi specialist fleet. Tailscale, Forgejo, n8n, LiteLLM. |
+| [nemotron-on-dgx](https://github.com/Franzabner/nemotron-on-dgx) | Running Nemotron 3 Super MoE on DGX Spark under NemoClaw. YOSOTRON. |
+| [lora-pi-edition](https://github.com/Franzabner/lora-pi-edition) | LoRA fine-tuning recipes for Pi-class compute. Real ML on small silicon. |
+
+### Hardware Design
+
+| Repo | What It Demonstrates |
+|---|---|
+| [kicad-personal-libs](https://github.com/Franzabner/kicad-personal-libs) | Personal KiCad symbol and footprint libraries. Donated back to the ecosystem. |
+| [fusion360-rack-models](https://github.com/Franzabner/fusion360-rack-models) | 3D models for the rack: air ducts, Pi brackets, accessories. |
+| [agnt-enclosure-references](https://github.com/Franzabner/agnt-enclosure-references) | AGNT premium aluminum enclosure. Public-safe design references. |
+
+### AI Research (EPI)
+
+| Repo | What It Demonstrates |
+|---|---|
+| [energy-per-intelligence](https://github.com/Franzabner/energy-per-intelligence) | Defines the EPI metric. Joules per token divided by accuracy. |
+| [epi-meter](https://github.com/Franzabner/epi-meter) | Open-source 4-channel AC power measurement board. RP2350 + CT clamps. |
+| [epi-bench](https://github.com/Franzabner/epi-bench) | Tooling for EPI research. Calculator, Pareto plotter, benchmark runner. |
+| [attention-head-surgery-epi](https://github.com/Franzabner/attention-head-surgery-epi) | Removing attention heads: does the energy actually drop? |
+| [expert-pruning-epi](https://github.com/Franzabner/expert-pruning-epi) | MoE expert removal measured by EPI. |
+| [mixed-quant-epi](https://github.com/Franzabner/mixed-quant-epi) | Per-layer quantization evaluated by EPI. |
+
+### Workshop
+
+| Repo | What It Demonstrates |
+|---|---|
+| [studio](https://github.com/Franzabner/studio) | The 12U rack where physical and digital infrastructure converge. |
+| [dotfiles](https://github.com/Franzabner/dotfiles) | Terminal config, Claude Code presets, Cursor rules, Tailscale snippets. |
+| [claude-code-recipes](https://github.com/Franzabner/claude-code-recipes) | Claude Code project configs and workflow patterns from daily use. |
+
+### Foundation and Product
+
+| Repo | What It Demonstrates |
+|---|---|
+| [218-civic-engineering](https://github.com/Franzabner/218-civic-engineering) | Civic engineering methodology. NEURONAs, closed-loop supply chain. |
+| [originator-public-tour](https://github.com/Franzabner/originator-public-tour) | Public-safe walkthrough of The Originator's architecture. |
+| [yai-specialist-recipes](https://github.com/Franzabner/yai-specialist-recipes) | Methodology behind forging a YAi specialist. |
+
+---
+
+## From Field to Architect
+
+<div align="center">
+  <img src="diagrams/field-to-architect.svg" alt="Field to Architect" width="1000" />
+</div>
+
+The arc starts with pulling wire. Fluor Corporation, McDermott, SST, MMR. Conduit bending, raceway installation, learning to read prints. Then instrumentation and controls at Tesla's Gigafactory: sensor integration, PLC logic, the transition from power to controls. Then foreman at Meta NightCrawler: running crews, managing quality on mission-critical electrical infrastructure where a single fault means millions in downtime.
+
+The arc ends with designing the systems instead of installing them. KiCad for electrical, Fusion 360 for mechanical, NVIDIA Omniverse for spatial composition. The same person who dressed panels at Tesla now designs the Rack Intelligence Board. The same discipline that keeps a 480V switchgear from faulting keeps an AI fleet thermally stable. The craft scales. The posture does not change.
+
+---
+
+## The Stack
+
+| Layer | Tool or Standard |
+|---|---|
+| Hardware design | KiCad 9.0, Fusion 360, NVIDIA Omniverse |
+| Firmware | C, Pico SDK, RP2350A (PIO state machines) |
+| AI infrastructure | NVIDIA DGX Spark, Jetson Orin Nano, Pi 5 fleet, YAITRON hubs |
+| AI reasoning | Claude Opus 4.6 (Claude Code), Cursor (Sonnet 4.6) |
+| Web | Next.js, MDX, Tailwind, Vercel |
+| Source of truth | Forgejo (private), GitHub (selective public mirror) |
+| Network | Tailscale (the only plane, no public exposure) |
+| Brand | Inter, JetBrains Mono, locked dark palette (#0A0A0A, #C9A84C, #2ECC71) |
+| Field standards | NEC 2023, NFPA 70E, UL 508A, UL 67, IEEE C2, OSHA 1910.147 |
+
+---
+
+## Where to Find the Work
 
 | Surface | Link |
 |---|---|
-| Company | [yoso-yai.com](https://yoso-yai.com) (when live) |
-| YOSOR | [yosor.app](https://yosor.app) (when live) |
-| Foundation | [218.network](https://218.network) (when live) |
+| Company | [yoso-yai.com](https://yoso-yai.com) |
+| YOSOR | [yosor.app](https://yosor.app) |
+| Foundation | [218.network](https://218.network) |
 | Hugging Face | [huggingface.co/Franzabner](https://huggingface.co/Franzabner) |
 | Instagram | [@franzabner](https://instagram.com/franzabner) |
 | TikTok | [@franzabner](https://tiktok.com/@franzabner) |
 | Personal Upwork | [upwork.com/freelancers/~0190520c10612c54b4](https://upwork.com/freelancers/~0190520c10612c54b4) |
 | Agency Upwork | [upwork.com/agencies/2036580282949929383](https://upwork.com/agencies/2036580282949929383) |
+
+---
+
+## About YOSO-YAi LLC
+
+YOSO-YAi is an infrastructure-tech company. We design, research, develop, and innovate smart AI infrastructure and smart AI power infrastructure. The same craft mindset that produces a dressed panel produces a managed rack, a thermal control loop, a battery failover system. The company was founded by someone who pulled wire before writing firmware. The physical discipline and the digital discipline are the same discipline applied at different scales. [yoso-yai.com](https://yoso-yai.com)
 
 ---
 
@@ -82,10 +170,6 @@ I architect smart AI infrastructure and smart AI power infrastructure. 12+ years
 
 ---
 
-<div align="center">
+## License
 
-**Francisco Abner Rivera, Puerto Rico.**
-
-[![YOSO-YAi](https://img.shields.io/badge/YOSO--YAi-C9A84C?style=for-the-badge&logo=github&logoColor=0A0A0A)](https://github.com/YOSO-YAi)
-
-</div>
+MIT License. Copyright 2026 Francisco Abner Rivera, YOSO-YAi LLC. See [LICENSE](LICENSE).

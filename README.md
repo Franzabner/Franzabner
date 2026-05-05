@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="assets/logo-personal.png" alt="Franzabner | Mechanical. Electrical. Controls." width="180" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-personal.png" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/logo-personal.png" />
+  <img src="assets/logo-personal.png" alt="Franzabner" width="180" style="border: 1px solid #C9A84C; border-radius: 12px; padding: 8px;" />
+</picture>
 
 # Francisco Abner Rivera
 
-### Francisco Abner Rivera. Founder and CEO, YOSO-YAi LLC. Co-Founder, 218 Network Foundation. Puerto Rico.
+### CEO and Co-Founder, YOSO-YAi LLC | Co-Founder, 218 Network Foundation | Puerto Rico
 
 **The architect at the center. The discipline that scales from wire to silicon.**
 
@@ -152,6 +156,10 @@ MIT License. Copyright 2026 Francisco Abner Rivera, YOSO-YAi LLC. See [LICENSE](
 
 <div align="center">
 
-<img src="assets/logo-company.png" alt="YOSO-YAi LLC" width="220" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-company.png" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/logo-company.png" />
+  <img src="assets/logo-company.png" alt="YOSO-YAi LLC | yoso-yai.com | yosor.app | 218.network" width="220" style="border: 1px solid #C9A84C; border-radius: 12px; padding: 8px;" />
+</picture>
 
 </div>

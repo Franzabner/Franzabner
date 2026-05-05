@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="YOSO-YAi" width="160" />
+<img src="assets/logo.png" alt="YOSO-YAi" width="200" />
 
-# Franzabner
+# Francisco Abner Rivera
 
 ### Francisco Abner Rivera. Founder and CEO, YOSO-YAi LLC. Co-Founder, 218 Network Foundation. Puerto Rico.
 
@@ -11,6 +11,11 @@
 ![Status](https://img.shields.io/badge/Status-Active-C9A84C?style=for-the-badge&labelColor=0A0A0A)
 ![Domain](https://img.shields.io/badge/Domain-Infrastructure_AI-C9A84C?style=for-the-badge&labelColor=0A0A0A)
 ![License](https://img.shields.io/badge/License-MIT-C9A84C?style=for-the-badge&labelColor=0A0A0A)
+
+[![Website](https://img.shields.io/badge/yoso--yai.com-C9A84C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwQTBBMEEiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik0yIDEyaDIwIi8+PHBhdGggZD0iTTEyIDJhMTUuMyAxNS4zIDAgMCAxIDQgMTAgMTUuMyAxNS4zIDAgMCAxLTQgMTAgMTUuMyAxNS4zIDAgMCAxLTQtMTAgMTUuMyAxNS4zIDAgMCAxIDQtMTAiLz48L3N2Zz4=&logoColor=0A0A0A)](https://yoso-yai.com)
+[![YOSOR](https://img.shields.io/badge/yosor.app-C9A84C?style=for-the-badge&logoColor=0A0A0A)](https://yosor.app)
+[![218 Network](https://img.shields.io/badge/218.network-C9A84C?style=for-the-badge&logoColor=0A0A0A)](https://218.network)
+[![Location](https://img.shields.io/badge/Puerto_Rico-0A0A0A?style=for-the-badge&logo=googlemaps&logoColor=C9A84C)](https://github.com/Franzabner)
 
 </div>
 
@@ -34,7 +39,7 @@ The portfolio is the proof. Not a slide deck. Not a pitch. The work shows itself
 
 ---
 
-## What I Build
+## What I am building
 
 - Smart AI infrastructure and smart AI power infrastructure (YOSO-YAi LLC)
 - Field-grade electrical and commissioning craft, documented as portfolio-grade reference
@@ -55,61 +60,32 @@ Every YOSO-YAi product is a living mind first, its specialization second. Four s
 
 ---
 
-## The Portfolio Map
-
-### Field Craft
-
-| Repo | What It Demonstrates |
-|---|---|
-| [electrical-panel-dressing](https://github.com/Franzabner/electrical-panel-dressing) | The craft that makes infrastructure live. Panel dressing, commissioning, as-built documentation. |
-| [mission-critical-discipline](https://github.com/Franzabner/mission-critical-discipline) | Mission critical electrical at hyperscale. What the industry gets wrong. |
-| [field-to-architect](https://github.com/Franzabner/field-to-architect) | The career arc made visible. Helper to CEO with dates and lessons. |
-
-### AI Infrastructure
-
-| Repo | What It Demonstrates |
-|---|---|
-| [rib-breadboard](https://github.com/Franzabner/rib-breadboard) | Exposed breadboard reference for the Rack Intelligence Board. Dual-processor trust boundary. |
-| [pico2-pio-i2c-reference](https://github.com/Franzabner/pico2-pio-i2c-reference) | PIO state machine I2C at 400kHz. Zero CPU overhead. The silicon moat. |
-| [lifepo4-rack-ups-reference](https://github.com/Franzabner/lifepo4-rack-ups-reference) | LiFePO4 battery management as rack UPS. Two-hour minimum runtime. |
-| [pi-fleet-studio](https://github.com/Franzabner/pi-fleet-studio) | Bootstrap a four-Pi YAi specialist fleet. Tailscale, Forgejo, n8n, LiteLLM. |
-| [nemotron-on-dgx](https://github.com/Franzabner/nemotron-on-dgx) | Running Nemotron 3 Super MoE on DGX Spark under NemoClaw. YOSOTRON. |
-| [lora-pi-edition](https://github.com/Franzabner/lora-pi-edition) | LoRA fine-tuning recipes for Pi-class compute. Real ML on small silicon. |
-
-### Hardware Design
-
-| Repo | What It Demonstrates |
-|---|---|
-| [kicad-personal-libs](https://github.com/Franzabner/kicad-personal-libs) | Personal KiCad symbol and footprint libraries. Donated back to the ecosystem. |
-| [fusion360-rack-models](https://github.com/Franzabner/fusion360-rack-models) | 3D models for the rack: air ducts, Pi brackets, accessories. |
-| [agnt-enclosure-references](https://github.com/Franzabner/agnt-enclosure-references) | AGNT premium aluminum enclosure. Public-safe design references. |
-
-### AI Research (EPI)
-
-| Repo | What It Demonstrates |
-|---|---|
-| [energy-per-intelligence](https://github.com/Franzabner/energy-per-intelligence) | Defines the EPI metric. Joules per token divided by accuracy. |
-| [epi-meter](https://github.com/Franzabner/epi-meter) | Open-source 4-channel AC power measurement board. RP2350 + CT clamps. |
-| [epi-bench](https://github.com/Franzabner/epi-bench) | Tooling for EPI research. Calculator, Pareto plotter, benchmark runner. |
-| [attention-head-surgery-epi](https://github.com/Franzabner/attention-head-surgery-epi) | Removing attention heads: does the energy actually drop? |
-| [expert-pruning-epi](https://github.com/Franzabner/expert-pruning-epi) | MoE expert removal measured by EPI. |
-| [mixed-quant-epi](https://github.com/Franzabner/mixed-quant-epi) | Per-layer quantization evaluated by EPI. |
-
-### Workshop
-
-| Repo | What It Demonstrates |
-|---|---|
-| [studio](https://github.com/Franzabner/studio) | The 12U rack where physical and digital infrastructure converge. |
-| [dotfiles](https://github.com/Franzabner/dotfiles) | Terminal config, Claude Code presets, Cursor rules, Tailscale snippets. |
-| [claude-code-recipes](https://github.com/Franzabner/claude-code-recipes) | Claude Code project configs and workflow patterns from daily use. |
-
-### Foundation and Product
-
-| Repo | What It Demonstrates |
-|---|---|
-| [218-civic-engineering](https://github.com/Franzabner/218-civic-engineering) | Civic engineering methodology. NEURONAs, closed-loop supply chain. |
-| [originator-public-tour](https://github.com/Franzabner/originator-public-tour) | Public-safe walkthrough of The Originator's architecture. |
-| [yai-specialist-recipes](https://github.com/Franzabner/yai-specialist-recipes) | Methodology behind forging a YAi specialist. |
+| Repo | Domain | What it demonstrates |
+|---|---|---|
+| [electrical-panel-dressing](https://github.com/Franzabner/electrical-panel-dressing) | Field craft | The craft that makes infrastructure live |
+| [mission-critical-discipline](https://github.com/Franzabner/mission-critical-discipline) | Field craft | Mission critical electrical at hyperscale |
+| [field-to-architect](https://github.com/Franzabner/field-to-architect) | Field craft | The career arc made visible, helper to CEO |
+| [studio](https://github.com/Franzabner/studio) | Workshop | The 12U rack where physical and digital converge |
+| [dotfiles](https://github.com/Franzabner/dotfiles) | Workshop | Terminal config, Claude Code presets, Cursor rules |
+| [claude-code-recipes](https://github.com/Franzabner/claude-code-recipes) | Workshop | Claude Code project configs and workflow patterns |
+| [rib-breadboard](https://github.com/Franzabner/rib-breadboard) | AI infrastructure | Exposed breadboard for the Rack Intelligence Board |
+| [pico2-pio-i2c-reference](https://github.com/Franzabner/pico2-pio-i2c-reference) | AI infrastructure | PIO state machine I2C at 400kHz, zero CPU overhead |
+| [lifepo4-rack-ups-reference](https://github.com/Franzabner/lifepo4-rack-ups-reference) | AI infrastructure | LiFePO4 battery management as rack UPS |
+| [pi-fleet-studio](https://github.com/Franzabner/pi-fleet-studio) | AI infrastructure | Bootstrap a four-Pi YAi specialist fleet |
+| [nemotron-on-dgx](https://github.com/Franzabner/nemotron-on-dgx) | AI infrastructure | Nemotron 3 Super MoE on DGX Spark under NemoClaw |
+| [lora-pi-edition](https://github.com/Franzabner/lora-pi-edition) | AI infrastructure | LoRA fine-tuning recipes for Pi-class compute |
+| [kicad-personal-libs](https://github.com/Franzabner/kicad-personal-libs) | Hardware design | Personal KiCad symbol and footprint libraries |
+| [fusion360-rack-models](https://github.com/Franzabner/fusion360-rack-models) | Hardware design | 3D models for the rack: air ducts, Pi brackets |
+| [agnt-enclosure-references](https://github.com/Franzabner/agnt-enclosure-references) | Hardware design | AGNT premium aluminum enclosure references |
+| [energy-per-intelligence](https://github.com/Franzabner/energy-per-intelligence) | AI research (EPI) | Defines the EPI metric, joules per token divided by accuracy |
+| [epi-meter](https://github.com/Franzabner/epi-meter) | AI research (EPI) | Open-source 4-channel AC power measurement board |
+| [epi-bench](https://github.com/Franzabner/epi-bench) | AI research (EPI) | EPI calculator, Pareto plotter, benchmark runner |
+| [attention-head-surgery-epi](https://github.com/Franzabner/attention-head-surgery-epi) | AI research (EPI) | Removing attention heads: does the energy drop? |
+| [expert-pruning-epi](https://github.com/Franzabner/expert-pruning-epi) | AI research (EPI) | MoE expert removal measured by EPI |
+| [mixed-quant-epi](https://github.com/Franzabner/mixed-quant-epi) | AI research (EPI) | Per-layer quantization evaluated by EPI |
+| [218-civic-engineering](https://github.com/Franzabner/218-civic-engineering) | Foundation | Civic engineering methodology, NEURONAs, closed-loop supply chain |
+| [originator-public-tour](https://github.com/Franzabner/originator-public-tour) | Foundation | Public-safe walkthrough of The Originator |
+| [yai-specialist-recipes](https://github.com/Franzabner/yai-specialist-recipes) | Foundation | Methodology behind forging a YAi specialist |
 
 ---
 
@@ -127,17 +103,17 @@ The arc ends with designing the systems instead of installing them. KiCad for el
 
 ## The Stack
 
-| Layer | Tool or Standard |
+| Layer | Tool / Standard |
 |---|---|
-| Hardware design | KiCad 9.0, Fusion 360, NVIDIA Omniverse |
-| Firmware | C, Pico SDK, RP2350A (PIO state machines) |
-| AI infrastructure | NVIDIA DGX Spark, Jetson Orin Nano, Pi 5 fleet, YAITRON hubs |
-| AI reasoning | Claude Opus 4.6 (Claude Code), Cursor (Sonnet 4.6) |
-| Web | Next.js, MDX, Tailwind, Vercel |
+| Hardware design | KiCad, Fusion 360 |
+| Spatial composition | NVIDIA Omniverse |
+| Architecture lane | Claude Opus 4.6 via Claude Code |
+| Code application | Cursor |
+| Agent fleet | YAi specialist fleet on Pi cluster, YOSOTRON coordination |
 | Source of truth | Forgejo (private), GitHub (selective public mirror) |
-| Network | Tailscale (the only plane, no public exposure) |
-| Brand | Inter, JetBrains Mono, locked dark palette (#0A0A0A, #C9A84C, #2ECC71) |
-| Field standards | NEC 2023, NFPA 70E, UL 508A, UL 67, IEEE C2, OSHA 1910.147 |
+| Brand | Inter, JetBrains Mono, locked dark palette |
+| Field discipline | NEC 2023, NFPA 70E, UL 508A |
+| Hosting | One 12U rack, on the floor of my home |
 
 ---
 

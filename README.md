@@ -6,42 +6,64 @@
 
 **CEO. Co-Founder. Mechanical, Electrical, and Autonomous Systems Architect.**
 
-From Puerto Rico, this account is the public front door for technical proof: mechanical design, electrical review, embedded systems, AI-assisted engineering workflows, Hugging Face release-readiness discipline, and the documentation boundaries required to publish without leaking private or sealed implementation.
+From Puerto Rico, this account is the public front door for technical proof: mechanical design, electrical review, embedded systems, AI-assisted engineering workflows, Hugging Face release-readiness discipline, EPI research scaffolds, and the documentation boundaries required to publish without leaking private or sealed implementation.
 
 ## What This Public Surface Is
 
 | Surface | Role |
-| --- | --- |
+|---|---|
 | Public technical surface | Shows public-safe proof, repo navigation, templates, review structure, and current scaffold status. |
-| Proof navigation | Connects the first live public proof repos before broader portfolio expansion. |
+| Proof navigation | Connects live public repos to status, boundary, and claim-control language. |
 | Portfolio surface | Presents Francisco / Franzabner as a technical operator and architect without pretending unfinished work is complete. |
 | Boundary checkpoint | Separates public proof from private implementation, sealed IP, and non-public operating material. |
 
 This is Francisco Abner Rivera's personal public technical brand and proof surface. It is not the official company voice, and it is not any Foundation or institutional voice.
 
-## First Public Proof Stack
+## Public Proof Stack
+
+### Navigation
 
 | Repo | Public role | Current status |
-| --- | --- | --- |
+|---|---|---|
 | [franzabner-proof-stack](https://github.com/Franzabner/franzabner-proof-stack) | Navigation and proof-routing spine for claims, repo mapping, artifact status, review logs, and future public proof batches. | Public scaffold. Release status: scaffolded. License pending human review. |
+
+### Hardware / Electrical / Embedded
+
+| Repo | Public role | Current status |
+|---|---|---|
 | [public-pcb-review-checklist](https://github.com/Franzabner/public-pcb-review-checklist) | Electrical / KiCad / PCB review discipline through checklists, synthetic examples, report structure, and boundary rules. | Public scaffold. Release status: scaffolded. License pending human review. |
+| [electrical-panel-dressing](https://github.com/Franzabner/electrical-panel-dressing) | Public-safe electrical documentation and panel-discipline proof surface. | Public scaffold. Public-surface alignment merged. License pending human review. |
+| [field-to-architect](https://github.com/Franzabner/field-to-architect) | Field experience to architecture translation, with restrained public status and boundary language. | Public scaffold. Public-surface alignment merged. License pending human review. |
+| [mission-critical-discipline](https://github.com/Franzabner/mission-critical-discipline) | Mission-critical operating discipline and documentation posture without client, deployment, or production claims. | Public scaffold. Public-surface alignment merged. License pending human review. |
+| [pico2-pio-i2c-reference](https://github.com/Franzabner/pico2-pio-i2c-reference) | Embedded / Pico / RP2350 reference workflow and public-safe interface documentation proof. | Public scaffold. Public-surface alignment merged. License pending human review. |
+
+### AI-Assisted Engineering / Release Readiness
+
+| Repo | Public role | Current status |
+|---|---|---|
 | [engineering-agent-review-gates](https://github.com/Franzabner/engineering-agent-review-gates) | AI-assisted engineering review gates for human authority, status accuracy, secret review, release review, and publication discipline. | Public scaffold. Release status: scaffolded. License pending human review. |
 | [hf-card-templates](https://github.com/Franzabner/hf-card-templates) | Hugging Face release-readiness templates for model cards, dataset cards, Space cards, evaluation reports, and release checklists. | Public scaffold. Release status: scaffolded. License pending human review. |
 | [technical-readme-lab](https://github.com/Franzabner/technical-readme-lab) | Technical README and repo productization proof through frameworks, synthetic before/after examples, portfolio templates, and boundary rules. | Public scaffold. Release status: scaffolded. License pending human review. |
 
-These five repos are the first live public proof stack. They are scaffolds and proof surfaces, not finished releases, customer results, deployment evidence, manufacturing approvals, model releases, dataset releases, or live service listings.
+### EPI / Research Scaffolds
+
+| Repo | Public role | Current status |
+|---|---|---|
+| [energy-per-intelligence](https://github.com/Franzabner/energy-per-intelligence) | EPI metric framing and future measurement discipline. | Research scaffold. Public-surface alignment merged. No released benchmark, dataset, model, Space, or eval-result claim. |
+| [epi-bench](https://github.com/Franzabner/epi-bench) | EPI calculation and reporting scaffold for future reviewed measurement workflows. | Tooling scaffold. Public-surface alignment merged. No benchmark-validity or released-result claim. |
+| [epi-meter](https://github.com/Franzabner/epi-meter) | Public-safe AC-side measurement-instrument scaffold for EPI work. | Hardware measurement scaffold. Public-surface alignment merged. No manufacturing approval, certification, sign-off, production-ready status, approved BOM, or Gerber claim. |
 
 ## Technical Lanes Being Built
 
 | Lane | Public direction |
-| --- | --- |
+|---|---|
 | Mechanical / Fusion 360 | Public-safe mechanical documentation, reviewed model notes, synthetic examples, and handoff discipline without production CAD packages. |
 | Electrical / KiCad / PCB | PCB review proof, schematic-reading discipline, severity framing, report templates, and public-safe checklist structure. |
 | Embedded / Pico / RP2350 | Reference workflows, interface documentation patterns, and test-harness notes without production firmware internals. |
 | Agents / harnesses | Agent contracts, task review gates, harness patterns, memory boundaries, and human authority over AI output. |
 | DGX / NVIDIA / fine-tuning | Lab-note structure, evaluation discipline, and runbook boundaries without private corpora, credentials, private weights, or unreleased lab logs. |
 | Omniverse / USD / 3D worlds | Public-safe scene workflow, USD organization, and synthetic 3D examples without private CAD, facility layout, or product geometry. |
-| EPI / Hugging Face | Energy-per-intelligence proof routing and future release-surface planning without fake weights, dataset, model, Space, benchmark, or hosted artifact claims. |
+| EPI / Hugging Face | Energy-per-intelligence proof routing and future release-surface planning without fake weights, dataset, model, Space, benchmark, eval result, or hosted artifact claims. |
 | Upwork proof routing | Draft proof navigation for scoped technical documentation work after human review, without live service listings or outcome claims. |
 
 ## Available For Scoped Work
@@ -63,13 +85,17 @@ No fake releases. No fake clients. No fake deployments. No fake Hugging Face art
 ## Current Status
 
 | Field | Status |
-| --- | --- |
-| Public repos | Five live public scaffolds |
-| Release status | Scaffolded |
-| License decisions | Pending human review |
+|---|---|
+| Public proof navigation | Live through `franzabner-proof-stack`. |
+| First public repos | Five live public scaffolds. |
+| Older mechanical/electrical/embedded alignment | First safe old-repo batch merged. |
+| EPI research alignment | EPI spine repos merged as public scaffolds. |
+| Paper-specific EPI repos | Held for separate cleanup review. |
+| Risky rack / DGX / agent / Fusion / KiCad production repos | Held for boundary review. |
+| Release status | Scaffolded unless a repo explicitly receives reviewed artifact evidence. |
+| License decisions | Pending human review. |
 | Hugging Face artifacts | No model, dataset, Space, benchmark, eval result, hosted model, or hosted dataset claim is made here. |
 | Upwork material | Proof routing only; no live offer copy, pricing, turnaround promise, or outcome claim is made here. |
-| Publication posture | More repos can be prepared only through reviewed publication batches. |
 
 ## Closing
 

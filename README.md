@@ -52,6 +52,9 @@ This is Francisco Abner Rivera's personal public technical brand and proof surfa
 | [energy-per-intelligence](https://github.com/Franzabner/energy-per-intelligence) | EPI metric framing and future measurement discipline. | Research scaffold. Public-surface alignment merged. No released benchmark, dataset, model, Space, or eval-result claim. |
 | [epi-bench](https://github.com/Franzabner/epi-bench) | EPI calculation and reporting scaffold for future reviewed measurement workflows. | Tooling scaffold. Public-surface alignment merged. No benchmark-validity or released-result claim. |
 | [epi-meter](https://github.com/Franzabner/epi-meter) | Public-safe AC-side measurement-instrument scaffold for EPI work. | Hardware measurement scaffold. Public-surface alignment merged. No manufacturing approval, certification, sign-off, production-ready status, approved BOM, or Gerber claim. |
+| [attention-head-surgery-epi](https://github.com/Franzabner/attention-head-surgery-epi) | Paper scaffold exploring whether attention-head intervention can reduce energy per useful output. | Paper/research scaffold. Public-surface alignment merged. No released method, validated benchmark, model, dataset, Space, or eval-result claim. |
+| [mixed-quant-epi](https://github.com/Franzabner/mixed-quant-epi) | Paper scaffold exploring mixed quantization as an EPI research direction. | Paper/research scaffold. Public-surface alignment merged. No released quantization recipe, production benchmark, evaluated model, dataset, Space, or eval-result claim. |
+| [expert-pruning-epi](https://github.com/Franzabner/expert-pruning-epi) | Paper scaffold exploring expert pruning and sparse model efficiency through EPI framing. | Paper/research scaffold. Public-surface alignment merged. No released pruning workflow, deployed agent, private harness, model, dataset, Space, or eval-result claim. |
 
 ## Technical Lanes Being Built
 
@@ -90,7 +93,7 @@ No fake releases. No fake clients. No fake deployments. No fake Hugging Face art
 | First public repos | Five live public scaffolds. |
 | Older mechanical/electrical/embedded alignment | First safe old-repo batch merged. |
 | EPI research alignment | EPI spine repos merged as public scaffolds. |
-| Paper-specific EPI repos | Held for separate cleanup review. |
+| Paper-specific EPI repos | Merged as public paper/research scaffolds. |
 | Risky rack / DGX / agent / Fusion / KiCad production repos | Held for boundary review. |
 | Release status | Scaffolded unless a repo explicitly receives reviewed artifact evidence. |
 | License decisions | Pending human review. |

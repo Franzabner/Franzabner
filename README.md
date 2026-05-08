@@ -38,11 +38,12 @@ This is Francisco Abner Rivera's personal public technical brand and proof surfa
 | [pico2-pio-i2c-reference](https://github.com/Franzabner/pico2-pio-i2c-reference) | Embedded / Pico / RP2350 reference workflow and public-safe interface documentation proof. | Public scaffold. Public-surface alignment merged. License pending human review. |
 | [rib-breadboard](https://github.com/Franzabner/rib-breadboard) | Public breadboard/reference scaffold for hardware documentation and RIB boundary discipline. | Public scaffold. Public-boundary cleanup merged. Production RIB implementation remains sealed. No production board files, firmware internals, BOMs, Gerbers, pin maps, routing, manufacturing approval, certification, sign-off, or production-ready claim. |
 
-### AI-Assisted Engineering / Release Readiness
+### AI-Assisted Engineering / Boundary Discipline / Release Readiness
 
 | Repo | Public role | Current status |
 |---|---|---|
 | [engineering-agent-review-gates](https://github.com/Franzabner/engineering-agent-review-gates) | AI-assisted engineering review gates for human authority, status accuracy, secret review, release review, and publication discipline. | Public scaffold. Release status: scaffolded. License pending human review. |
+| [local-ai-lab-boundary](https://github.com/Franzabner/local-ai-lab-boundary) | First derivative public boundary repo: public-safe local AI lab boundary model with synthetic-only examples and no real topology, endpoints, credentials, private corpora, private weights, private prompts, private agent harnesses, or sealed YOSO-YAi IP. | Public scaffold. Release status: scaffolded. License pending human review. No real infrastructure claim. |
 | [hf-card-templates](https://github.com/Franzabner/hf-card-templates) | Hugging Face release-readiness templates for model cards, dataset cards, Space cards, evaluation reports, and release checklists. | Public scaffold. Release status: scaffolded. License pending human review. |
 | [technical-readme-lab](https://github.com/Franzabner/technical-readme-lab) | Technical README and repo productization proof through frameworks, synthetic before/after examples, portfolio templates, and boundary rules. | Public scaffold. Release status: scaffolded. License pending human review. |
 
@@ -65,7 +66,7 @@ This is Francisco Abner Rivera's personal public technical brand and proof surfa
 | Electrical / KiCad / PCB | PCB review proof, schematic-reading discipline, severity framing, report templates, and public-safe checklist structure. |
 | Embedded / Pico / RP2350 | Reference workflows, interface documentation patterns, and test-harness notes without production firmware internals. |
 | Agents / harnesses | Agent contracts, task review gates, harness patterns, memory boundaries, and human authority over AI output. |
-| DGX / NVIDIA / fine-tuning | Lab-note structure, evaluation discipline, and runbook boundaries without private corpora, credentials, private weights, or unreleased lab logs. |
+| Local AI lab / DGX / NVIDIA / fine-tuning | Public-safe local AI lab boundary discipline, lab-note structure, evaluation discipline, and runbook boundaries without real topology, endpoints, credentials, private corpora, private weights, private prompts, private agent harnesses, or unreleased lab logs. |
 | Omniverse / USD / 3D worlds | Public-safe scene workflow, USD organization, and synthetic 3D examples without private CAD, facility layout, or product geometry. |
 | EPI / Hugging Face | Energy-per-intelligence proof routing and future release-surface planning without fake weights, dataset, model, Space, benchmark, eval result, or hosted artifact claims. |
 | Upwork proof routing | Draft proof navigation for scoped technical documentation work after human review, without live service listings or outcome claims. |
@@ -94,9 +95,10 @@ No fake releases. No fake clients. No fake deployments. No fake Hugging Face art
 | First public repos | Five live public scaffolds. |
 | Older mechanical/electrical/embedded alignment | First safe old-repo batch merged. |
 | RIB breadboard reference | Merged as a public breadboard/reference scaffold. Production RIB implementation remains sealed. |
+| Local AI lab boundary | `local-ai-lab-boundary` is live as the first derivative public boundary repo. Synthetic-only examples. No real topology, endpoints, credentials, private corpora, private weights, private prompts, private agent harnesses, or sealed YOSO-YAi IP. |
 | EPI research alignment | EPI spine repos merged as public scaffolds. |
 | Paper-specific EPI repos | Merged as public paper/research scaffolds. |
-| Risky rack / DGX / agent / Fusion / KiCad production and derivative-only repos | Held for boundary review. |
+| Risky rack / DGX / agent / Fusion / KiCad production and remaining derivative-only repos | Held for boundary review. DGX/NVIDIA and fine-tuning derivative repos remain future candidates. |
 | Release status | Scaffolded unless a repo explicitly receives reviewed artifact evidence. |
 | License decisions | Pending human review. |
 | Hugging Face artifacts | No model, dataset, Space, benchmark, eval result, hosted model, or hosted dataset claim is made here. |

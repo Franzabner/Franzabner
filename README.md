@@ -36,6 +36,7 @@ This is Francisco Abner Rivera's personal public technical brand and proof surfa
 | [field-to-architect](https://github.com/Franzabner/field-to-architect) | Field experience to architecture translation, with restrained public status and boundary language. | Public scaffold. Public-surface alignment merged. License pending human review. |
 | [mission-critical-discipline](https://github.com/Franzabner/mission-critical-discipline) | Mission-critical operating discipline and documentation posture without client, deployment, or production claims. | Public scaffold. Public-surface alignment merged. License pending human review. |
 | [pico2-pio-i2c-reference](https://github.com/Franzabner/pico2-pio-i2c-reference) | Embedded / Pico / RP2350 reference workflow and public-safe interface documentation proof. | Public scaffold. Public-surface alignment merged. License pending human review. |
+| [rib-breadboard](https://github.com/Franzabner/rib-breadboard) | Public breadboard/reference scaffold for hardware documentation and RIB boundary discipline. | Public scaffold. Public-boundary cleanup merged. Production RIB implementation remains sealed. No production board files, firmware internals, BOMs, Gerbers, pin maps, routing, manufacturing approval, certification, sign-off, or production-ready claim. |
 
 ### AI-Assisted Engineering / Release Readiness
 
@@ -92,9 +93,10 @@ No fake releases. No fake clients. No fake deployments. No fake Hugging Face art
 | Public proof navigation | Live through `franzabner-proof-stack`. |
 | First public repos | Five live public scaffolds. |
 | Older mechanical/electrical/embedded alignment | First safe old-repo batch merged. |
+| RIB breadboard reference | Merged as a public breadboard/reference scaffold. Production RIB implementation remains sealed. |
 | EPI research alignment | EPI spine repos merged as public scaffolds. |
 | Paper-specific EPI repos | Merged as public paper/research scaffolds. |
-| Risky rack / DGX / agent / Fusion / KiCad production repos | Held for boundary review. |
+| Risky rack / DGX / agent / Fusion / KiCad production and derivative-only repos | Held for boundary review. |
 | Release status | Scaffolded unless a repo explicitly receives reviewed artifact evidence. |
 | License decisions | Pending human review. |
 | Hugging Face artifacts | No model, dataset, Space, benchmark, eval result, hosted model, or hosted dataset claim is made here. |

@@ -38,6 +38,12 @@ This is Francisco Abner Rivera's personal public technical brand and proof surfa
 | [pico2-pio-i2c-reference](https://github.com/Franzabner/pico2-pio-i2c-reference) | Embedded / Pico / RP2350 reference workflow and public-safe interface documentation proof. | Public scaffold. Public-surface alignment merged. License pending human review. |
 | [rib-breadboard](https://github.com/Franzabner/rib-breadboard) | Public breadboard/reference scaffold for hardware documentation and RIB boundary discipline. | Public scaffold. Public-boundary cleanup merged. Production RIB implementation remains sealed. No production board files, firmware internals, BOMs, Gerbers, pin maps, routing, manufacturing approval, certification, sign-off, or production-ready claim. |
 
+### Energy Systems / Control Systems / Simulation-First Engineering
+
+| Repo | Public role | Current status |
+|---|---|---|
+| [s2h-g-control-ledger](https://github.com/Franzabner/s2h-g-control-ledger) | S2H-G Control Ledger documents the public proof surface for a controlled solar hydrogen generation simulator. It focuses on solar-energy accounting, water-quality gating, electrolyzer-cell model boundaries, MCU-style fault shutdown doctrine, and daily generation ledger structure. | Public proof surface. Implementation withheld under a proprietary boundary. All rights reserved. No public simulator implementation and no public reuse license. |
+
 ### AI-Assisted Engineering / Boundary Discipline / Release Readiness
 
 | Repo | Public role | Current status |
@@ -77,6 +83,7 @@ This is Francisco Abner Rivera's personal public technical brand and proof surfa
 | Local AI lab / DGX / NVIDIA / fine-tuning | Public-safe local AI lab boundary discipline, DGX/NVIDIA workstation workflow notes, fine-tuning lab-note structure, dataset prep boundaries, evaluation note templates, and runbook boundaries without real topology, endpoints, credentials, private corpora, private weights, private prompts, private agent harnesses, training logs, eval results, model output, or unreleased lab logs. |
 | Omniverse / USD / 3D worlds | Public-safe scene workflow, USD organization, and synthetic 3D examples without private CAD, facility layout, or product geometry. |
 | EPI / Hugging Face | Energy-per-intelligence proof routing and future release-surface planning without fake weights, dataset, model, Space, benchmark, eval result, or hosted artifact claims. |
+| Energy/control simulation ledgers | Simulation-first energy-control proof surfaces, public-safe accounting doctrine, safety gating, fault-state reasoning, and daily report structure with implementation withheld. |
 | Evidence-boundary simulation | Public-safe anomalous-motion evidence frameworks, sensor metadata schemas, trajectory and uncertainty simulation, and hypothesis-boundary documentation using synthetic examples only. |
 | Upwork proof routing | Draft proof navigation for scoped technical documentation work after human review, without live service listings or outcome claims. |
 
@@ -107,6 +114,7 @@ No fake releases. No fake clients. No fake deployments. No fake Hugging Face art
 | Local AI lab boundary | `local-ai-lab-boundary` is live as the first derivative public boundary repo. Synthetic-only examples. No real topology, endpoints, credentials, private corpora, private weights, private prompts, private agent harnesses, or sealed YOSO-YAi IP. |
 | DGX workstation notes | `dgx-ai-workstation-notes` is live as the second derivative public repo. Public-safe DGX/NVIDIA/workstation workflow notes. Synthetic-only examples. No real topology, endpoints, credentials, tokens, private corpora, private weights, private prompts, private agent harnesses, sealed YOSO-YAi IP, model, dataset, Space, training run, model output, or hosted artifact claim. |
 | Fine-tuning lab notes | `fine-tuning-lab-notes` is live as the third derivative public repo. Public-safe fine-tuning lab-note scaffold. Synthetic-only examples. Dataset prep boundary, model release gate, evaluation note template, and Hugging Face planned/template-only routing. No private corpora, private weights, training logs, eval results, model, dataset, Space, hosted artifact, real training run, model output, or HF action claim. |
+| S2H-G control ledger | `s2h-g-control-ledger` is live as a public proof surface for a proprietary simulation-first energy-control project. Implementation withheld. All rights reserved. It documents solar-energy accounting, water-quality gating, electrolyzer-cell model boundaries, MCU-style fault shutdown doctrine, and daily generation ledger structure. |
 | Field propulsion observatory | `field-propulsion-observatory` is live as a public-safe engineering documentation and lightweight simulation scaffold for anomalous-motion evidence boundaries, sensor metadata, trajectory/uncertainty reasoning, and hypothesis-boundary mapping. Synthetic examples only. No exotic propulsion claim, real case claim, Hugging Face artifact, or Upwork listing. |
 | EPI research alignment | EPI spine repos merged as public scaffolds. |
 | Paper-specific EPI repos | Merged as public paper/research scaffolds. |

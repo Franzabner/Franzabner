@@ -49,6 +49,12 @@ This is Francisco Abner Rivera's personal public technical brand and proof surfa
 | [hf-card-templates](https://github.com/Franzabner/hf-card-templates) | Hugging Face release-readiness templates for model cards, dataset cards, Space cards, evaluation reports, and release checklists. | Public scaffold. Release status: scaffolded. License pending human review. |
 | [technical-readme-lab](https://github.com/Franzabner/technical-readme-lab) | Technical README and repo productization proof through frameworks, synthetic before/after examples, portfolio templates, and boundary rules. | Public scaffold. Release status: scaffolded. License pending human review. |
 
+### Engineering Simulation / Evidence Boundary / Sensor Discipline
+
+| Repo | Public role | Current status |
+|---|---|---|
+| [field-propulsion-observatory](https://github.com/Franzabner/field-propulsion-observatory) | Public-safe engineering documentation and lightweight simulation scaffold for anomalous-motion evidence review, sensor metadata, trajectory and uncertainty reasoning, and hypothesis-boundary mapping. Uses synthetic examples and explicit boundary language. | Public scaffold. Release status: scaffolded. License pending human review. No exotic propulsion claim, no real case claim, no Hugging Face artifact, and no Upwork listing. |
+
 ### EPI / Research Scaffolds
 
 | Repo | Public role | Current status |
@@ -71,6 +77,7 @@ This is Francisco Abner Rivera's personal public technical brand and proof surfa
 | Local AI lab / DGX / NVIDIA / fine-tuning | Public-safe local AI lab boundary discipline, DGX/NVIDIA workstation workflow notes, fine-tuning lab-note structure, dataset prep boundaries, evaluation note templates, and runbook boundaries without real topology, endpoints, credentials, private corpora, private weights, private prompts, private agent harnesses, training logs, eval results, model output, or unreleased lab logs. |
 | Omniverse / USD / 3D worlds | Public-safe scene workflow, USD organization, and synthetic 3D examples without private CAD, facility layout, or product geometry. |
 | EPI / Hugging Face | Energy-per-intelligence proof routing and future release-surface planning without fake weights, dataset, model, Space, benchmark, eval result, or hosted artifact claims. |
+| Evidence-boundary simulation | Public-safe anomalous-motion evidence frameworks, sensor metadata schemas, trajectory and uncertainty simulation, and hypothesis-boundary documentation using synthetic examples only. |
 | Upwork proof routing | Draft proof navigation for scoped technical documentation work after human review, without live service listings or outcome claims. |
 
 ## Available For Scoped Work
@@ -100,6 +107,7 @@ No fake releases. No fake clients. No fake deployments. No fake Hugging Face art
 | Local AI lab boundary | `local-ai-lab-boundary` is live as the first derivative public boundary repo. Synthetic-only examples. No real topology, endpoints, credentials, private corpora, private weights, private prompts, private agent harnesses, or sealed YOSO-YAi IP. |
 | DGX workstation notes | `dgx-ai-workstation-notes` is live as the second derivative public repo. Public-safe DGX/NVIDIA/workstation workflow notes. Synthetic-only examples. No real topology, endpoints, credentials, tokens, private corpora, private weights, private prompts, private agent harnesses, sealed YOSO-YAi IP, model, dataset, Space, training run, model output, or hosted artifact claim. |
 | Fine-tuning lab notes | `fine-tuning-lab-notes` is live as the third derivative public repo. Public-safe fine-tuning lab-note scaffold. Synthetic-only examples. Dataset prep boundary, model release gate, evaluation note template, and Hugging Face planned/template-only routing. No private corpora, private weights, training logs, eval results, model, dataset, Space, hosted artifact, real training run, model output, or HF action claim. |
+| Field propulsion observatory | `field-propulsion-observatory` is live as a public-safe engineering documentation and lightweight simulation scaffold for anomalous-motion evidence boundaries, sensor metadata, trajectory/uncertainty reasoning, and hypothesis-boundary mapping. Synthetic examples only. No exotic propulsion claim, real case claim, Hugging Face artifact, or Upwork listing. |
 | EPI research alignment | EPI spine repos merged as public scaffolds. |
 | Paper-specific EPI repos | Merged as public paper/research scaffolds. |
 | Risky rack / agent / Fusion / KiCad production and remaining derivative-only repos | Held for boundary review. |

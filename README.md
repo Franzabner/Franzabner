@@ -1,12 +1,31 @@
-# Different by design. The mind behind it all.
+# Francisco Abner Rivera
 
-## Francisco Abner Rivera
+CEO. Co-Founder. Mechanical, Electrical, and Autonomous Systems Architect.
 
-**Franzabner** is the personal public technical brand for Francisco Abner Rivera.
+`Franzabner` is the public profile and proof-navigation surface for Francisco Abner Rivera.
 
-**CEO. Co-Founder. Mechanical, Electrical, and Autonomous Systems Architect.**
+Story arc: field discipline -> embedded/PCB/control systems -> Energy Per Intelligence research -> public-safe AI engineering review gates -> YOSO-YAi alignment without sealed IP exposure.
 
-From Puerto Rico, this account is the public front door for technical proof: mechanical design, electrical review, embedded systems, AI-assisted engineering workflows, Hugging Face release-readiness discipline, EPI research scaffolds, and the documentation boundaries required to publish without leaking private or sealed implementation.
+## Public / Private / Sealed Boundary
+
+Public: profile text, public-safe repo links, proof navigation, status labels, boundary language, synthetic examples, and review discipline.
+
+Private: customer/client work, private lab topology, private measurements, internal systems, non-public operations, credentials, endpoints, internal workflows, and unpublished release material.
+
+Sealed: YOSO-YAi source, product implementation, model-development source, production hardware details, proprietary systems, Foundation-private material, and K-ussade/Alexandra private material unless a separate human review approves a public excerpt.
+
+## What This Profile Proves
+
+- Francisco's public work spans field discipline, embedded/PCB/control systems, Energy Per Intelligence research scaffolds, AI-assisted engineering review gates, and public-safe engineering documentation.
+- The Franzabner repo network is organized around status accuracy, boundary discipline, and human review.
+- Public YOSO-YAi alignment can be shown without exposing sealed company IP or private infrastructure.
+
+## What This Profile Does Not Prove
+
+- It does not prove live products, deployments, customers, revenue, manufacturing approval, certification, production readiness, or client outcomes.
+- It does not release models, datasets, Hugging Face Spaces, benchmarks, eval results, hosted artifacts, private corpora, credentials, internal systems, or sealed YOSO-YAi source.
+- It does not make GitHub canonical for private or sealed YOSO-YAi work.
+- It does not make the 218 Network Foundation a company sub-brand, YOSO-YAi product, or personal marketing proof surface.
 
 ## What This Public Surface Is
 

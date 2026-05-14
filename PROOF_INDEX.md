@@ -28,8 +28,8 @@ The profile may summarize public-safe engineering scope, but the proof-control r
 | [`cad-mechanical-design-lab`](https://github.com/Franzabner/cad-mechanical-design-lab) | Public scaffold route for synthetic CAD and mechanical serviceability studies. | `scaffolded`; public scaffold only, not released. |
 | [`electrical-controls-architecture`](https://github.com/Franzabner/electrical-controls-architecture) | Public scaffold route for synthetic electrical/control narratives, sensor/actuator patterns, and validation review. | `scaffolded`; public scaffold only, not released. |
 | [`embedded-hardware-lab`](https://github.com/Franzabner/embedded-hardware-lab) | Public scaffold route for synthetic embedded hardware, MCU/management-bus, firmware-boundary, and validation studies. | `scaffolded`; public scaffold only, not released. |
-| `engineering-simulation-lab` | Future umbrella route for assumptions, models, outputs, limits, and validation paths. | `planned` |
-| `data-model-infrastructure` | Future umbrella route for data/model, RAG, DGX, fine-tuning, eval, and release boundaries. | `planned` |
+| [`engineering-simulation-lab`](https://github.com/Franzabner/engineering-simulation-lab) | Public scaffold route for synthetic engineering simulation assumptions, model boundaries, validation reports, and proof limits. | `scaffolded`; public scaffold only, not released. |
+| [`data-model-infrastructure`](https://github.com/Franzabner/data-model-infrastructure) | Public scaffold route for synthetic data/model infrastructure, source capture, metadata, vector indexing, dataset versioning, fine-tuning boundaries, and release cards. | `scaffolded`; public scaffold only, not released. |
 | `infrastructure-energy-studies` | Future umbrella route for energy conversion, storage, control, and validation studies. | `planned` |
 | `civic-infrastructure-production-systems` | Future umbrella route for public-safe civic production studies without speaking as the Foundation. | `planned` |
 | `engineering-standards-and-validation` | Future umbrella route for safety, commissioning, testing, and standards-aware validation. | `planned` |

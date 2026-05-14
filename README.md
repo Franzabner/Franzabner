@@ -46,7 +46,7 @@ A claim is not public proof just because it appears in a README. It must have st
 
 ## Approved Architecture
 
-The approved production architecture contains 17 final repositories: two control/navigation repositories, four public scaffold Phase 2/3 repositories, and 11 still-planned umbrella repositories.
+The approved production architecture contains 17 final repositories: two control/navigation repositories, six public scaffold Phase 2/3/4 repositories, and 9 still-planned umbrella repositories.
 
 | Repo | Architecture role | Current status |
 | --- | --- | --- |
@@ -56,8 +56,8 @@ The approved production architecture contains 17 final repositories: two control
 | [`cad-mechanical-design-lab`](https://github.com/Franzabner/cad-mechanical-design-lab) | Synthetic CAD and mechanical design studies. | `scaffolded`; public scaffold only, not released. |
 | [`electrical-controls-architecture`](https://github.com/Franzabner/electrical-controls-architecture) | Electrical and controls proof. | `scaffolded`; public scaffold only, not released. |
 | [`embedded-hardware-lab`](https://github.com/Franzabner/embedded-hardware-lab) | PCB, embedded, firmware, management-bus, and hardware validation proof. | `scaffolded`; public scaffold only, not released. |
-| `engineering-simulation-lab` | Simulation and validation proof. | `planned`; do not create in Phase 1. |
-| `data-model-infrastructure` | Engineering data, RAG, artifact storage, DGX, fine-tuning, eval, and release-boundary proof. | `planned`; do not create in Phase 1. |
+| [`engineering-simulation-lab`](https://github.com/Franzabner/engineering-simulation-lab) | Engineering simulation and validation proof. | `scaffolded`; public scaffold only, not released. |
+| [`data-model-infrastructure`](https://github.com/Franzabner/data-model-infrastructure) | Engineering data/model infrastructure, RAG, artifact storage, DGX, fine-tuning, eval, and release-boundary proof. | `scaffolded`; public scaffold only, not released. |
 | `infrastructure-energy-studies` | Water-current-to-electricity, solar-to-hydrogen, storage, conversion, and energy validation. | `planned`; do not create in Phase 1. |
 | `civic-infrastructure-production-systems` | Public-safe civic infrastructure production studies with Foundation-adjacent boundaries. | `planned`; do not create in Phase 1. |
 | `engineering-standards-and-validation` | Safety, commissioning, standards awareness, testing, and acceptance discipline. | `planned`; do not create in Phase 1. |
@@ -110,7 +110,8 @@ Recommended final pin set after later human-approved umbrella work:
 | Remote/public publication state | Not changed by this work. No push, publication, or GitHub metadata change is authorized here. |
 | Phase 2 public scaffold repos | `modular-infrastructure-studies` and `cad-mechanical-design-lab` are public scaffold repos; not released and not proof-complete. |
 | Phase 3 public scaffold repos | `electrical-controls-architecture` and `embedded-hardware-lab` are public scaffold repos; not released and not proof-complete. |
-| Remaining umbrella repositories | 11 remaining umbrella repositories are `planned`; not created. |
+| Phase 4 public scaffold repos | `engineering-simulation-lab` and `data-model-infrastructure` are public scaffold repos; not released and not proof-complete. |
+| Remaining umbrella repositories | 9 remaining umbrella repositories are `planned`; not created. |
 | Supporting narrow repositories | Held at their existing status until separate review. This Phase 1 patch does not upgrade them. |
 | Released products, deployments, clients, revenue, certification, models, datasets, Spaces, benchmarks, eval results, or Foundation outcomes | Not claimed. |
 | Sealed company, client, Foundation, model, hardware, topology, credential, corpus, weight, firmware, CAD, KiCad, or operations material | `private/not-public` unless explicitly reviewed and transformed into public-safe derivatives. |
@@ -128,5 +129,7 @@ This profile is a public navigation scaffold. It is not a deployed product, cert
 | [`cad-mechanical-design-lab`](https://github.com/Franzabner/cad-mechanical-design-lab) | Public scaffold for synthetic CAD and mechanical design studies. | Link only as a scaffolded proof surface; no production CAD, release, deployment, certification, product-readiness, or proof-completion claim. |
 | [`electrical-controls-architecture`](https://github.com/Franzabner/electrical-controls-architecture) | Public scaffold for synthetic electrical/control narratives, sensor/actuator patterns, and validation review. | Link only as a scaffolded proof surface; no release, deployment, certification, production schematics, manufacturing readiness, product-readiness, or proof-completion claim. |
 | [`embedded-hardware-lab`](https://github.com/Franzabner/embedded-hardware-lab) | Public scaffold for synthetic embedded hardware, MCU/management-bus, firmware-boundary, and validation studies. | Link only as a scaffolded proof surface; no release, deployment, certification, production board source, private firmware, manufacturing readiness, product-readiness, or proof-completion claim. |
+| [`engineering-simulation-lab`](https://github.com/Franzabner/engineering-simulation-lab) | Public scaffold for synthetic engineering simulation studies with assumptions, model boundaries, validation reports, and proof limits. | Link only as a scaffolded proof surface; no release, deployment, certification, benchmark result, physical-validation, product-readiness, or proof-completion claim. |
+| [`data-model-infrastructure`](https://github.com/Franzabner/data-model-infrastructure) | Public scaffold for synthetic data/model infrastructure studies covering source capture, metadata, vector indexing, dataset versioning, fine-tuning boundaries, and release cards. | Link only as a scaffolded proof surface; no model release, dataset release, Space release, fine-tuned model availability, benchmark result, deployment, certification, product-readiness, or proof-completion claim. |
 
 Additional supporting repositories should be linked only when their status, boundary, artifact, and claim posture are reviewed. Remaining planned umbrella repositories should not be linked as live repos until they exist and have public-safe scaffold files.

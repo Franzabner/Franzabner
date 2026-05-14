@@ -17,7 +17,8 @@ Status vocabulary: `planned`, `scaffolded`, `published`, `released`, `paused`, `
 | Canon identity line | Francisco Abner Rivera: Founder of YOSO-YAi and Systems Architect building intelligent infrastructure from power to autonomy. |
 | Proof-control route | `franzabner-proof-stack`. |
 | Phase 2 public scaffold routes | `modular-infrastructure-studies` and `cad-mechanical-design-lab`; public scaffold only, not released. |
-| Remaining umbrella repos | `planned`; not created. |
+| Phase 3 public scaffold routes | `electrical-controls-architecture` and `embedded-hardware-lab`; public scaffold only, not released. |
+| Remaining umbrella repos | 11 remaining umbrella repositories are `planned`; not created. |
 | Supporting narrow repos | Status not upgraded in Phase 1. Separate review required. |
 | Product proof | None claimed. |
 | Client/customer proof | None claimed. |
@@ -41,6 +42,6 @@ Before publication or stronger status language, review:
 - `PUBLIC_SURFACE.md` for allowed/prohibited public content;
 - `BOUNDARIES.md` for entity and sealed-source separation;
 - `franzabner-proof-stack` for matching proof matrix, claim register, artifact status, boundary register, review log, and proof-entry template;
-- `modular-infrastructure-studies` and `cad-mechanical-design-lab` for scaffolded public proof-surface routing only.
+- `modular-infrastructure-studies`, `cad-mechanical-design-lab`, `electrical-controls-architecture`, and `embedded-hardware-lab` for scaffolded public proof-surface routing only.
 
-Human review decides whether the control repo routing updates are safe to push and whether either Phase 2 public scaffold can later be promoted beyond `scaffolded`.
+Human review decides whether the control repo routing updates are safe to push and whether any Phase 2 or Phase 3 public scaffold can later be promoted beyond `scaffolded`.

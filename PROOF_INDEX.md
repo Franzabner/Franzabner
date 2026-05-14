@@ -20,14 +20,14 @@ The profile may summarize public-safe engineering scope, but the proof-control r
 
 ## Approved Architecture Route
 
-| Final repo | Route from profile | Phase 1 status |
+| Final repo | Route from profile | Current status |
 | --- | --- | --- |
-| `Franzabner` | Current profile navigation layer. | `scaffolded` locally; publication requires review and push approval. |
-| `franzabner-proof-stack` | Master proof index and claim-control spine. | `scaffolded` locally; publication requires review and push approval. |
+| `Franzabner` | Current profile navigation layer. | `scaffolded`; public control surface, not release authority. |
+| `franzabner-proof-stack` | Master proof index and claim-control spine. | `scaffolded`; public proof-control surface, not release authority. |
 | [`modular-infrastructure-studies`](https://github.com/Franzabner/modular-infrastructure-studies) | Public scaffold route for modular infrastructure serviceability studies. | `scaffolded`; public scaffold only, not released. |
 | [`cad-mechanical-design-lab`](https://github.com/Franzabner/cad-mechanical-design-lab) | Public scaffold route for synthetic CAD and mechanical serviceability studies. | `scaffolded`; public scaffold only, not released. |
-| `electrical-controls-architecture` | Future umbrella route for electrical and controls proof. | `planned` |
-| `embedded-hardware-lab` | Future umbrella route for PCB, embedded, firmware, and validation proof. | `planned` |
+| [`electrical-controls-architecture`](https://github.com/Franzabner/electrical-controls-architecture) | Public scaffold route for synthetic electrical/control narratives, sensor/actuator patterns, and validation review. | `scaffolded`; public scaffold only, not released. |
+| [`embedded-hardware-lab`](https://github.com/Franzabner/embedded-hardware-lab) | Public scaffold route for synthetic embedded hardware, MCU/management-bus, firmware-boundary, and validation studies. | `scaffolded`; public scaffold only, not released. |
 | `engineering-simulation-lab` | Future umbrella route for assumptions, models, outputs, limits, and validation paths. | `planned` |
 | `data-model-infrastructure` | Future umbrella route for data/model, RAG, DGX, fine-tuning, eval, and release boundaries. | `planned` |
 | `infrastructure-energy-studies` | Future umbrella route for energy conversion, storage, control, and validation studies. | `planned` |

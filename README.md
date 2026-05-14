@@ -46,14 +46,14 @@ A claim is not public proof just because it appears in a README. It must have st
 
 ## Approved Architecture
 
-The approved production architecture contains 17 final repositories: two existing control/navigation repositories and 15 planned umbrella repositories.
+The approved production architecture contains 17 final repositories: two control/navigation repositories, two public scaffold Phase 2 repositories, and 13 still-planned umbrella repositories.
 
 | Repo | Phase 1 role | Phase 1 status |
 | --- | --- | --- |
 | `Franzabner` | Personal identity and navigation surface. | `scaffolded` locally after this Phase 1 file set; publication still requires human review and push approval. |
 | `franzabner-proof-stack` | Master proof index and claim-control spine. | `scaffolded` locally after this Phase 1 file set; publication still requires human review and push approval. |
-| `modular-infrastructure-studies` | Modular data center and infrastructure systems. | `planned`; do not create in Phase 1. |
-| `cad-mechanical-design-lab` | Fusion 360 and mechanical design proof. | `planned`; do not create in Phase 1. |
+| [`modular-infrastructure-studies`](https://github.com/Franzabner/modular-infrastructure-studies) | Modular infrastructure and serviceability studies. | `scaffolded`; public scaffold only, not released. |
+| [`cad-mechanical-design-lab`](https://github.com/Franzabner/cad-mechanical-design-lab) | Synthetic CAD and mechanical design studies. | `scaffolded`; public scaffold only, not released. |
 | `electrical-controls-architecture` | Electrical and controls proof. | `planned`; do not create in Phase 1. |
 | `embedded-hardware-lab` | PCB, embedded, firmware, management-bus, and hardware validation proof. | `planned`; do not create in Phase 1. |
 | `engineering-simulation-lab` | Simulation and validation proof. | `planned`; do not create in Phase 1. |
@@ -108,7 +108,8 @@ Recommended final pin set after later human-approved umbrella work:
 | --- | --- |
 | Phase 1 local profile file set | `scaffolded` after this patch. |
 | Remote/public publication state | Not changed by this work. No push, publication, or GitHub metadata change is authorized here. |
-| 15 umbrella repositories | `planned`; not created in Phase 1. |
+| Phase 2 public scaffold repos | `modular-infrastructure-studies` and `cad-mechanical-design-lab` are public scaffold repos; not released and not proof-complete. |
+| Remaining umbrella repositories | `planned`; not created. |
 | Supporting narrow repositories | Held at their existing status until separate review. This Phase 1 patch does not upgrade them. |
 | Released products, deployments, clients, revenue, certification, models, datasets, Spaces, benchmarks, eval results, or Foundation outcomes | Not claimed. |
 | Sealed company, client, Foundation, model, hardware, topology, credential, corpus, weight, firmware, CAD, KiCad, or operations material | `private/not-public` unless explicitly reviewed and transformed into public-safe derivatives. |
@@ -122,5 +123,7 @@ This profile is a public navigation scaffold. It is not a deployed product, cert
 | Link | Role | Review rule |
 | --- | --- | --- |
 | [`franzabner-proof-stack`](https://github.com/Franzabner/franzabner-proof-stack) | Proof-control layer for status, artifacts, claims, boundaries, validation, and review state. | Link only as a scaffolded proof-control repo until human review approves stronger language. |
+| [`modular-infrastructure-studies`](https://github.com/Franzabner/modular-infrastructure-studies) | Public scaffold for synthetic modular infrastructure serviceability studies. | Link only as a scaffolded proof surface; no release, deployment, certification, product-readiness, or proof-completion claim. |
+| [`cad-mechanical-design-lab`](https://github.com/Franzabner/cad-mechanical-design-lab) | Public scaffold for synthetic CAD and mechanical design studies. | Link only as a scaffolded proof surface; no production CAD, release, deployment, certification, product-readiness, or proof-completion claim. |
 
-Additional supporting repositories should be linked only when their status, boundary, artifact, and claim posture are reviewed. The 15 umbrella repositories should not be linked as live repos until they exist and have public-safe scaffold files.
+Additional supporting repositories should be linked only when their status, boundary, artifact, and claim posture are reviewed. Remaining planned umbrella repositories should not be linked as live repos until they exist and have public-safe scaffold files.

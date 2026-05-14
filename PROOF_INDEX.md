@@ -24,8 +24,8 @@ The profile may summarize public-safe engineering scope, but the proof-control r
 | --- | --- | --- |
 | `Franzabner` | Current profile navigation layer. | `scaffolded` locally; publication requires review and push approval. |
 | `franzabner-proof-stack` | Master proof index and claim-control spine. | `scaffolded` locally; publication requires review and push approval. |
-| `modular-infrastructure-studies` | Future umbrella route for modular infrastructure studies. | `planned` |
-| `cad-mechanical-design-lab` | Future umbrella route for mechanical CAD and serviceability studies. | `planned` |
+| [`modular-infrastructure-studies`](https://github.com/Franzabner/modular-infrastructure-studies) | Public scaffold route for modular infrastructure serviceability studies. | `scaffolded`; public scaffold only, not released. |
+| [`cad-mechanical-design-lab`](https://github.com/Franzabner/cad-mechanical-design-lab) | Public scaffold route for synthetic CAD and mechanical serviceability studies. | `scaffolded`; public scaffold only, not released. |
 | `electrical-controls-architecture` | Future umbrella route for electrical and controls proof. | `planned` |
 | `embedded-hardware-lab` | Future umbrella route for PCB, embedded, firmware, and validation proof. | `planned` |
 | `engineering-simulation-lab` | Future umbrella route for assumptions, models, outputs, limits, and validation paths. | `planned` |

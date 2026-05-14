@@ -11,7 +11,7 @@ Purpose: public surface inventory and exclusion rule set
 | Identity | Francisco Abner Rivera as Founder of YOSO-YAi and Systems Architect building intelligent infrastructure from power to autonomy. |
 | Navigation | Links to reviewed public-safe proof-control material, especially `franzabner-proof-stack`. |
 | Status | Approved status labels: `planned`, `scaffolded`, `published`, `released`, `paused`, `deprecated`, and `private/not-public`. |
-| Architecture | The approved 17-repo architecture as an architecture plan, with the 15 umbrella repos held at `planned` until created and reviewed. |
+| Architecture | The approved 17-repo architecture as an architecture plan, with two Phase 2 public scaffold repos and remaining umbrella repos held at `planned` until created and reviewed. |
 | Boundaries | Public/private/sealed rules for personal, company, product, Foundation, client, Forgejo, GitHub, Hugging Face, data/model, hardware, and agentic workflow material. |
 | Public-safe artifacts | Synthetic examples, reviewed screenshots, reviewed templates, assumptions, validation notes, and proof matrices when approved for public use. |
 
@@ -31,8 +31,8 @@ Purpose: public surface inventory and exclusion rule set
 
 | Surface | Public role | Phase 1 rule |
 | --- | --- | --- |
-| GitHub profile README | Public navigation and proof surface. | Patch files locally only; do not push or change GitHub metadata in Phase 1. |
-| GitHub repositories | Public mirror, deployment source, portfolio surface, or open-source surface depending on classification. | Do not treat GitHub as canonical private or sealed source. |
+| GitHub profile README | Public navigation and proof surface. | May route to reviewed public scaffold repos; do not change pins or profile metadata without separate approval. |
+| GitHub repositories | Public mirror, deployment source, portfolio surface, or open-source surface depending on classification. | Do not treat GitHub as canonical private or sealed source; scaffolded repos are not released artifacts. |
 | Forgejo | Canonical private source where private or sealed source applies. | Do not publish Forgejo internals or private topology. |
 | Hugging Face | Model/dataset/Space release surface only. | Do not change metadata or imply a release without reviewed artifacts. |
 | YOSO-YAi LLC surfaces | Company voice and product/source authority where approved. | Do not use Foundation voice to sell company work. |
@@ -42,11 +42,11 @@ Purpose: public surface inventory and exclusion rule set
 
 ## Publication Gate
 
-Phase 1 local patches do not publish anything. Before the profile is pushed or used externally, human review must confirm:
+Before this profile routes to public scaffold repos as proof surfaces, human review must confirm:
 
 - status language is accurate;
 - boundary language is complete;
 - no supporting repo was silently upgraded;
-- no umbrella repo was created or implied as live;
+- no repo is implied as released, deployed, certified, product-ready, or proof-complete;
 - no GitHub metadata or Hugging Face metadata change is bundled into the patch;
 - no private, sealed, client, Foundation-private, model-sensitive, or security-sensitive material appears.

@@ -35,10 +35,10 @@ The profile may summarize public-safe engineering scope, but the proof-control r
 | [`engineering-standards-and-validation`](https://github.com/Franzabner/engineering-standards-and-validation) | Public scaffold route for standards-aware validation templates, safety checklists, test procedures, risk registers, and proof limits. | `scaffolded`; public scaffold only, not released. |
 | [`engineering-security-boundary`](https://github.com/Franzabner/engineering-security-boundary) | Public scaffold route for artifact-publication, repo-visibility, secrets-handling, data-boundary, and agent-permission patterns. | `scaffolded`; public scaffold only, not released. |
 | [`engineering-deliverables-template`](https://github.com/Franzabner/engineering-deliverables-template) | Public scaffold route for engineering deliverable templates, status, claims, boundaries, reports, cards, and handoff checklists. | `scaffolded`; public scaffold only, not released. |
-| `application-development-systems` | Future umbrella route for app architecture and product/client ownership boundaries. | `planned` |
-| `immersive-access-systems` | Future umbrella route for spatial dashboards, HMI, digital twins, and controlled access studies. | `planned` |
-| `automated-engineering-systems` | Future umbrella route for memory, Forgejo, n8n, provenance, and operator-dashboard workflow proof. | `planned` |
-| `agentic-engineering-workforce` | Future umbrella route for Codex-style execution, review gates, tool boundaries, and human-controlled agents. | `planned` |
+| [`application-development-systems`](https://github.com/Franzabner/application-development-systems) | Public scaffold route for app architecture, AI-assisted delivery, review validation, deployment assumptions, and ownership boundaries. | `scaffolded`; public scaffold only, not released. |
+| [`immersive-access-systems`](https://github.com/Franzabner/immersive-access-systems) | Public scaffold route for operator portals, spatial interfaces, digital-twin patterns, dashboards, and scene boundaries. | `scaffolded`; public scaffold only, not released. |
+| [`automated-engineering-systems`](https://github.com/Franzabner/automated-engineering-systems) | Public scaffold route for memory, source control, workflow automation, run logs, mirrors, and review loops. | `scaffolded`; public scaffold only, not released. |
+| [`agentic-engineering-workforce`](https://github.com/Franzabner/agentic-engineering-workforce) | Public scaffold route for execution loops, tool permissions, review gates, logging, refusal rules, and human approval. | `scaffolded`; public scaffold only, not released. |
 
 ## Supporting Repo Rule
 

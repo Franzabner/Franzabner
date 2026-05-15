@@ -46,7 +46,7 @@ A claim is not public proof just because it appears in a README. It must have st
 
 ## Approved Architecture
 
-The approved production architecture contains 17 final repositories: two control/navigation repositories, eleven public scaffold Phase 2/3/4/5/6 repositories, and 4 still-planned umbrella repositories.
+The approved production architecture contains 17 final repositories: two control/navigation repositories and fifteen public scaffold Phase 2/3/4/5/6/7 repositories.
 
 | Repo | Architecture role | Current status |
 | --- | --- | --- |
@@ -63,10 +63,10 @@ The approved production architecture contains 17 final repositories: two control
 | [`engineering-standards-and-validation`](https://github.com/Franzabner/engineering-standards-and-validation) | Public-safe standards-aware validation templates for safety checklists, test procedures, risk registers, and proof limits. | `scaffolded`; public scaffold only, not released. |
 | [`engineering-security-boundary`](https://github.com/Franzabner/engineering-security-boundary) | Public-safe security and boundary patterns for artifact publication, repo visibility, secrets handling, and data separation. | `scaffolded`; public scaffold only, not released. |
 | [`engineering-deliverables-template`](https://github.com/Franzabner/engineering-deliverables-template) | Public-safe engineering deliverable templates for README, status, claims, boundaries, reports, cards, and handoff checklists. | `scaffolded`; public scaffold only, not released. |
-| `application-development-systems` | Next.js, TypeScript, product-boundary, review, deployment, and app-delivery proof. | `planned`; do not create in Phase 1. |
-| `immersive-access-systems` | Spatial dashboards, digital-twin interaction, HMI, controlled access, and CAD-to-USD workflow proof. | `planned`; do not create in Phase 1. |
-| `automated-engineering-systems` | Obsidian, Forgejo, n8n, operator dashboards, provenance, and workflow automation proof. | `planned`; do not create in Phase 1. |
-| `agentic-engineering-workforce` | Codex-style execution, review gates, tool boundaries, and human-controlled agent workflows. | `planned`; do not create in Phase 1. |
+| [`application-development-systems`](https://github.com/Franzabner/application-development-systems) | Public-safe application architecture studies covering Next.js, TypeScript, AI-assisted delivery, validation, and ownership boundaries. | `scaffolded`; public scaffold only, not released. |
+| [`immersive-access-systems`](https://github.com/Franzabner/immersive-access-systems) | Public-safe immersive access studies covering operator portals, spatial interfaces, digital-twin patterns, dashboards, and scene boundaries. | `scaffolded`; public scaffold only, not released. |
+| [`automated-engineering-systems`](https://github.com/Franzabner/automated-engineering-systems) | Public-safe automated engineering system patterns covering memory, source control, workflow automation, run logs, mirrors, and review loops. | `scaffolded`; public scaffold only, not released. |
+| [`agentic-engineering-workforce`](https://github.com/Franzabner/agentic-engineering-workforce) | Public-safe agentic engineering workflow patterns covering execution loops, tool permissions, review gates, logging, refusal rules, and human approval. | `scaffolded`; public scaffold only, not released. |
 
 ## Pinned Repo Guidance
 
@@ -113,7 +113,8 @@ Recommended final pin set after later human-approved umbrella work:
 | Phase 4 public scaffold repos | `engineering-simulation-lab` and `data-model-infrastructure` are public scaffold repos; not released and not proof-complete. |
 | Phase 5 public scaffold repos | `infrastructure-energy-studies` and `civic-infrastructure-production-systems` are public scaffold repos; not released and not proof-complete. |
 | Phase 6 public scaffold repos | `engineering-standards-and-validation`, `engineering-security-boundary`, and `engineering-deliverables-template` are public scaffold repos; not released and not proof-complete. |
-| Remaining umbrella repositories | 4 remaining umbrella repositories are `planned`; not created. |
+| Phase 7 public scaffold repos | `application-development-systems`, `immersive-access-systems`, `automated-engineering-systems`, and `agentic-engineering-workforce` are public scaffold repos; not released and not proof-complete. |
+| Remaining umbrella repositories | None in the approved 17-repo architecture; no repo is promoted beyond `scaffolded`. |
 | Supporting narrow repositories | Held at their existing status until separate review. This Phase 1 patch does not upgrade them. |
 | Released products, deployments, clients, revenue, certification, models, datasets, Spaces, benchmarks, eval results, or Foundation outcomes | Not claimed. |
 | Sealed company, client, Foundation, model, hardware, topology, credential, corpus, weight, firmware, CAD, KiCad, or operations material | `private/not-public` unless explicitly reviewed and transformed into public-safe derivatives. |
@@ -138,5 +139,9 @@ This profile is a public navigation scaffold. It is not a deployed product, cert
 | [`engineering-standards-and-validation`](https://github.com/Franzabner/engineering-standards-and-validation) | Public scaffold for standards-aware validation templates covering safety checklists, test procedures, risk registers, and proof limits. | Link only as a scaffolded proof surface; no release, certification, code-compliance approval, stamped-engineering implication, legal approval, customer-deliverable, safety-approval, active-service, production-readiness, or proof-completion claim. |
 | [`engineering-security-boundary`](https://github.com/Franzabner/engineering-security-boundary) | Public scaffold for artifact-publication, repo-visibility, secrets-handling, data-boundary, and agent-permission patterns. | Link only as a scaffolded proof surface; no release, security-compliance approval, legal approval, customer-deliverable, active-service, model-release, dataset-release, metadata-approval, or proof-completion claim. |
 | [`engineering-deliverables-template`](https://github.com/Franzabner/engineering-deliverables-template) | Public scaffold for engineering deliverable templates covering README, status, claims, boundaries, reports, cards, and handoff checklists. | Link only as a scaffolded proof surface; no release, certification, code-compliance approval, stamped-engineering implication, legal approval, customer-deliverable, active-service, model-release, dataset-release, Space-release, production-readiness, or proof-completion claim. |
+| [`application-development-systems`](https://github.com/Franzabner/application-development-systems) | Public scaffold for application architecture, AI-assisted delivery, review validation, deployment assumptions, and ownership boundaries. | Link only as a scaffolded proof surface; no live app, active customer, released software, production-readiness, active-service, production endpoint, deployment proof, or proof-completion claim. |
+| [`immersive-access-systems`](https://github.com/Franzabner/immersive-access-systems) | Public scaffold for immersive access, operator portal, spatial interface, digital-twin, dashboard, and scene-boundary studies. | Link only as a scaffolded proof surface; no deployed portal, production dashboard, live telemetry, customer asset, active-service, production-readiness, or proof-completion claim. |
+| [`automated-engineering-systems`](https://github.com/Franzabner/automated-engineering-systems) | Public scaffold for memory, source-control, workflow automation, run-log, mirror, and review-loop patterns. | Link only as a scaffolded proof surface; no production automation, live operation, private topology, active-service, production-readiness, or proof-completion claim. |
+| [`agentic-engineering-workforce`](https://github.com/Franzabner/agentic-engineering-workforce) | Public scaffold for execution loops, tool permissions, review gates, logging, refusal rules, and human approval. | Link only as a scaffolded proof surface; no active agent workforce, autonomous production agent, released software, active-service, production-readiness, or proof-completion claim. |
 
-Additional supporting repositories should be linked only when their status, boundary, artifact, and claim posture are reviewed. Remaining planned umbrella repositories should not be linked as live repos until they exist and have public-safe scaffold files.
+Additional supporting repositories should be linked only when their status, boundary, artifact, and claim posture are reviewed. Phase 7 links are scaffolded proof-surface routes only, not release or proof-completion routes.

@@ -11,7 +11,7 @@ Purpose: public surface inventory and exclusion rule set
 | Identity | Francisco Abner Rivera as Founder of YOSO-YAi and Systems Architect building intelligent infrastructure from power to autonomy. |
 | Navigation | Links to reviewed public-safe proof-control material, especially `franzabner-proof-stack`. |
 | Status | Approved status labels: `planned`, `scaffolded`, `published`, `released`, `paused`, `deprecated`, and `private/not-public`. |
-| Architecture | The approved 17-repo architecture as an architecture plan, with two Phase 2 public scaffold repos, two Phase 3 public scaffold repos, two Phase 4 public scaffold repos, two Phase 5 public scaffold repos, and 7 remaining umbrella repos held at `planned` until created and reviewed. |
+| Architecture | The approved 17-repo architecture as an architecture plan, with two Phase 2 public scaffold repos, two Phase 3 public scaffold repos, two Phase 4 public scaffold repos, two Phase 5 public scaffold repos, three Phase 6 public scaffold repos, and 4 remaining umbrella repos held at `planned` until created and reviewed. |
 | Boundaries | Public/private/sealed rules for personal, company, product, Foundation, client, Forgejo, GitHub, Hugging Face, data/model, hardware, and agentic workflow material. |
 | Public-safe artifacts | Synthetic examples, reviewed screenshots, reviewed templates, assumptions, validation notes, and proof matrices when approved for public use. |
 

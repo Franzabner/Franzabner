@@ -46,7 +46,7 @@ A claim is not public proof just because it appears in a README. It must have st
 
 ## Approved Architecture
 
-The approved production architecture contains 17 final repositories: two control/navigation repositories, six public scaffold Phase 2/3/4 repositories, and 9 still-planned umbrella repositories.
+The approved production architecture contains 17 final repositories: two control/navigation repositories, eight public scaffold Phase 2/3/4/5 repositories, and 7 still-planned umbrella repositories.
 
 | Repo | Architecture role | Current status |
 | --- | --- | --- |
@@ -58,8 +58,8 @@ The approved production architecture contains 17 final repositories: two control
 | [`embedded-hardware-lab`](https://github.com/Franzabner/embedded-hardware-lab) | PCB, embedded, firmware, management-bus, and hardware validation proof. | `scaffolded`; public scaffold only, not released. |
 | [`engineering-simulation-lab`](https://github.com/Franzabner/engineering-simulation-lab) | Engineering simulation and validation proof. | `scaffolded`; public scaffold only, not released. |
 | [`data-model-infrastructure`](https://github.com/Franzabner/data-model-infrastructure) | Engineering data/model infrastructure, RAG, artifact storage, DGX, fine-tuning, eval, and release-boundary proof. | `scaffolded`; public scaffold only, not released. |
-| `infrastructure-energy-studies` | Water-current-to-electricity, solar-to-hydrogen, storage, conversion, and energy validation. | `planned`; do not create in Phase 1. |
-| `civic-infrastructure-production-systems` | Public-safe civic infrastructure production studies with Foundation-adjacent boundaries. | `planned`; do not create in Phase 1. |
+| [`infrastructure-energy-studies`](https://github.com/Franzabner/infrastructure-energy-studies) | Public-safe infrastructure energy studies covering solar-to-hydrogen, water-current-to-electricity, control states, safety boundaries, and validation limits. | `scaffolded`; public scaffold only, not released. |
+| [`civic-infrastructure-production-systems`](https://github.com/Franzabner/civic-infrastructure-production-systems) | Public-safe civic infrastructure production studies covering recycling automation, 3D-print workflows, material flow, QA boundaries, and Foundation-adjacent engineering separation. | `scaffolded`; public scaffold only, not released. |
 | `engineering-standards-and-validation` | Safety, commissioning, standards awareness, testing, and acceptance discipline. | `planned`; do not create in Phase 1. |
 | `engineering-security-boundary` | Secrets, repo visibility, data boundaries, client/Foundation/model boundaries, and agent permissions. | `planned`; do not create in Phase 1. |
 | `engineering-deliverables-template` | Professional engineering report, status, boundary, card, BOM, commissioning, and handoff templates. | `planned`; do not create in Phase 1. |
@@ -111,7 +111,8 @@ Recommended final pin set after later human-approved umbrella work:
 | Phase 2 public scaffold repos | `modular-infrastructure-studies` and `cad-mechanical-design-lab` are public scaffold repos; not released and not proof-complete. |
 | Phase 3 public scaffold repos | `electrical-controls-architecture` and `embedded-hardware-lab` are public scaffold repos; not released and not proof-complete. |
 | Phase 4 public scaffold repos | `engineering-simulation-lab` and `data-model-infrastructure` are public scaffold repos; not released and not proof-complete. |
-| Remaining umbrella repositories | 9 remaining umbrella repositories are `planned`; not created. |
+| Phase 5 public scaffold repos | `infrastructure-energy-studies` and `civic-infrastructure-production-systems` are public scaffold repos; not released and not proof-complete. |
+| Remaining umbrella repositories | 7 remaining umbrella repositories are `planned`; not created. |
 | Supporting narrow repositories | Held at their existing status until separate review. This Phase 1 patch does not upgrade them. |
 | Released products, deployments, clients, revenue, certification, models, datasets, Spaces, benchmarks, eval results, or Foundation outcomes | Not claimed. |
 | Sealed company, client, Foundation, model, hardware, topology, credential, corpus, weight, firmware, CAD, KiCad, or operations material | `private/not-public` unless explicitly reviewed and transformed into public-safe derivatives. |
@@ -131,5 +132,7 @@ This profile is a public navigation scaffold. It is not a deployed product, cert
 | [`embedded-hardware-lab`](https://github.com/Franzabner/embedded-hardware-lab) | Public scaffold for synthetic embedded hardware, MCU/management-bus, firmware-boundary, and validation studies. | Link only as a scaffolded proof surface; no release, deployment, certification, production board source, private firmware, manufacturing readiness, product-readiness, or proof-completion claim. |
 | [`engineering-simulation-lab`](https://github.com/Franzabner/engineering-simulation-lab) | Public scaffold for synthetic engineering simulation studies with assumptions, model boundaries, validation reports, and proof limits. | Link only as a scaffolded proof surface; no release, deployment, certification, benchmark result, physical-validation, product-readiness, or proof-completion claim. |
 | [`data-model-infrastructure`](https://github.com/Franzabner/data-model-infrastructure) | Public scaffold for synthetic data/model infrastructure studies covering source capture, metadata, vector indexing, dataset versioning, fine-tuning boundaries, and release cards. | Link only as a scaffolded proof surface; no model release, dataset release, Space release, fine-tuned model availability, benchmark result, deployment, certification, product-readiness, or proof-completion claim. |
+| [`infrastructure-energy-studies`](https://github.com/Franzabner/infrastructure-energy-studies) | Public scaffold for synthetic infrastructure energy studies covering solar-to-hydrogen, water-current-to-electricity, control states, safety boundaries, and validation limits. | Link only as a scaffolded proof surface; no release, deployment, certified safety, proven output, commercial-readiness, physical-validation, product-readiness, or proof-completion claim. |
+| [`civic-infrastructure-production-systems`](https://github.com/Franzabner/civic-infrastructure-production-systems) | Public scaffold for synthetic civic infrastructure production studies covering recycling automation, 3D-print workflows, material flow, QA boundaries, and Foundation-adjacent engineering separation. | Link only as a scaffolded proof surface; no release, deployment, operational Foundation program, school deployment, production recycling line, live civic-node deployment, disaster-response deployment, manufacturing-readiness, certified-safety, product-readiness, or proof-completion claim. |
 
 Additional supporting repositories should be linked only when their status, boundary, artifact, and claim posture are reviewed. Remaining planned umbrella repositories should not be linked as live repos until they exist and have public-safe scaffold files.
